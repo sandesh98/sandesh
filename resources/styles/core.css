@@ -6987,7 +6987,7 @@ a:focus, a:active, a:hover, textarea:focus, textarea:active, textarea:hover, inp
 }
 
 body {
-  background: #000;
+  background-color: #000;
 }
 
 body * {

@@ -16,7 +16,8 @@ $routes = [
     '/guess-and-win' => 'controllers/guess-and-win.php',
     '/natraj-flyer' => 'controllers/natraj-flyer.php',
     '/dutchdiner' => 'controllers/dutchdiner.php',
-    '/bubba' => 'controllers/bubba.php'
+    '/cv' => 'controllers/cv.php',
+    '/bubba' => 'controllers/bubba.php',
 ];
 
 if (array_key_exists($url, $routes)) {
