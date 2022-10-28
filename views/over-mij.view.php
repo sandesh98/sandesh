@@ -1,4 +1,4 @@
-<?php require('partials/head.php') ?>
+<?php require 'partials/head.php'; ?>
 
 <!-- Content -->
 <div id="inner">
@@ -22,13 +22,12 @@
                 <div class="col-3">
                     <div class="content-block">
                         <h2>Hi, mijn naam is Sandesh</h2>
-                        <p>Ik ben 24 jaar oud en ik woon in Spijkenisse. Ik mijn vrije tijd hou ik ervan om te poolen met vrienden. Daarbij probeer ik ook regelmatig een bezoekje te brengen aan de sportschool. Een eigenschap van mij is dat ik er niet van hou om stil te zitten. Het grootste gedeelte van mijn tijd ben ik bezig met het optimale uit mijzelf te halen of ik ben druk met school of werk.</p>
+                        <p>Ik ben 24 jaar oud en woon in Spijkenisse. In mijn vrije tijd pool ik graag of breng een bezoekje aan de sportschool. Mijn eigenschap is dat ik er niet van hou om stil te zitten. Ik probeer altijd bezig te zijn met een project of informatie op te doen om het optimale uit mijzelf te halen.</p>
                         <h3>School</h3>
-                        <p>Momenteel ben ik een derde jaar Communicatie en Multimedia Design student aan Hogeschool Rotterdam. Het leukste aan mijn opleiding vind ik onderzoek doen naar een probleem en hier toffe en mooie toepassingen voor bedenken. Tijdens de projecten ben ik een echte teamspeler en vind ik samen nieuwe ideeën bedenken met de doelgroep ontzettend motiverend. </p>
-                        <p>Tijdens mijn stageperiode in het vierde leerjaar ben ik opzoek naar een bedrijf dat zich verdiept in UX en UI design voor mobiele applicaties. Door mijn affiniteit met Apple en mijn interesse in technologie weet ik veel over telefoon en de hardware. In mijn ontwerp probeer ik dit ook altijd te werken. Een voorbeeld hiervan is een recent project
-                            <a class="undefined" href="/wecollect">Wecollect</a>.</p>
+                        <p>Momenteel zit ik in mijn laatste jaar van de opleiding Communicatie en Multimedia Design aan Hogeschool Rotterdam. Gedurende de opleiding ben ik erachter gekomen dat ik een passie heb voor technologie en prototyping. Verder vind ik de opleiding ontzettend uitdagend omdat geen enkel project hetzelfde is.</p>
+                        <p>In februari start ik met mijn afstudeerstage nadat ik mijn minor heb afgerond. Mijn ideale stagebedrijf bestaat uit een groot en gevarieerd team waarbij de collega’s elkaars rug hebben. Teamspirit is voor mij ontzettend belangrijk. Eveneens als projecten in teamverband uitvoeren. Waar ik ook naar opzoek ben tijdens mijn afstudeerstage is een bedrijf dat werkt aan een groot project in plaats van meerdere kleine projecten.</p>
                         <h3>Werk</h3>
-                        <p>Ik ben bijna vijf jaar in dienst bij Amac in Spijkenisse. Amac de grootste Apple Premium Reseller van Europa. Het leukste aan mijn werk naar mijn mening is dat ik premium producten mag verkopen aan klanten. Mijn motivatie haal ik contact met mensen en mijn collega’s. Het achterhalen van de wensen en behoefte van een klant geeft mij kick.</p>
+                        <p>Sinds 2016 ben ik werkzaam bij Amac in Spijkenisse. Amac is de grootste Apple Premium Reseller van Europa. Wat ik leuk vind aan mijn bijbaan is dat ik premium producten mag verkopen aan klanten. Daarbij vind ik klantcontact en de behoefte en wensen van de mensen achterhalen keer op keer leuk om te doen.</p>
                         <a href="https://www.linkedin.com/in/sandesh98/" target="_blank"><i class="fa fa-linkedin fa-social-icons-sm mt-20"></i></a>
                         <a href="https://github.com/sandesh98" target="_blank"><i class="fa fa-github fa-social-icons-sm mt-20"></i></a>
                     </div>
@@ -251,4 +250,4 @@
 </div>
 <!-- /Content -->
 
-<?php require('partials/footer.php') ?>
+<?php require 'partials/footer.php'; ?>
