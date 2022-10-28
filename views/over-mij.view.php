@@ -29,7 +29,7 @@
                         <h3>Werk</h3>
                         <p>Sinds 2016 ben ik werkzaam bij Amac in Spijkenisse. Amac is de grootste Apple Premium Reseller van Europa. Wat ik leuk vind aan mijn bijbaan is dat ik premium producten mag verkopen aan klanten. Daarbij vind ik klantcontact en de behoefte en wensen van de mensen achterhalen keer op keer leuk om te doen.</p>
                         <a href="https://www.linkedin.com/in/sandesh98/" target="_blank"><i class="fa fa-linkedin fa-social-icons-sm mt-20"></i></a>
-                        <a href="https://github.com/sandesh98" target="_blank"><i class="fa fa-github fa-social-icons-sm mt-20"></i></a>
+                        <a href="https://github.com/sandesh98" target="_blank"><i class="fa fa-github fa-social-icons-sm mt-20"></i></a>                    
                     </div>
                     <div class="content-block">
                         <h4>Extra weetjes</h4>
@@ -66,13 +66,6 @@
                                 Applicatie- en mediaontwikkelaar <br>
                                 MBO
                             </li>
-                        </ul><span class="label">2011 - 2015</span>
-                        <ul class="striped">
-                            <li>CSG De Oude Maas <br>
-                                Techno Mavo <br>
-                                VMBO
-                            </li>
-                        </ul>
                     </div>
 
                     <div class="list-block d-none d-sm-block d-md-block"> <!-- alleen zichtbaar bij sm sreen -->
@@ -92,31 +85,17 @@
                             </li>
                         </ul>
 
-                        <span class="label">Okt 2018 - Jan 2020</span>
-                        <ul class="striped">
-                            <li>Atlantis<br>
-                                Administratie
-                            </li>
-                        </ul>
-
                         <span class="label">Jan 2018 - Jun 2018</span>
                         <ul class="striped">
                             <li>Collab Group<br>
-                                Stagiair / Student
+                                Programmeer stage
                             </li>
                         </ul>
 
                         <span class="label">Okt 2016 - Feb 2017</span>
                         <ul class="striped">
                             <li>Computer.nl<br>
-                                Stagiair / Student
-                            </li>
-                        </ul>
-
-                        <span class="label">Mei 2016 - Aug 2016</span>
-                        <ul class="striped">
-                            <li>Krom Spijkenisse<br>
-                                Afwashulp
+                                Programmeer stage   
                             </li>
                         </ul>
 
@@ -124,20 +103,6 @@
                         <ul class="striped">
                             <li>Dixons<br>
                                 Verkoopmedewerker
-                            </li>
-                        </ul>
-
-                        <span class="label">Jun 2014 - Jun 2014</span>
-                        <ul class="striped">
-                            <li>Panoramaflat<br>
-                                Vrijwillegerswerk
-                            </li>
-                        </ul>
-
-                        <span class="label">Apr 2014 - Apr 2014</span>
-                        <ul class="striped">
-                            <li>Dixons<br>
-                                Stagiar / Student
                             </li>
                         </ul>
                     </div>
@@ -194,31 +159,17 @@
                             </li>
                         </ul>
 
-                        <span class="label">Okt 2018 - Jan 2020</span>
-                        <ul class="striped">
-                            <li>Atlantis<br>
-                                Administratie
-                            </li>
-                        </ul>
-
                         <span class="label">Jan 2018 - Jun 2018</span>
                         <ul class="striped">
                             <li>Collab Group<br>
-                                Stagiair / Student
+                                Programmeer stage
                             </li>
                         </ul>
 
                         <span class="label">Okt 2016 - Feb 2017</span>
                         <ul class="striped">
                             <li>Computer.nl<br>
-                                Stagiair / Student
-                            </li>
-                        </ul>
-
-                        <span class="label">Mei 2016 - Aug 2016</span>
-                        <ul class="striped">
-                            <li>Krom Spijkenisse<br>
-                                Afwashulp
+                                Programmeer stage   
                             </li>
                         </ul>
 
@@ -226,20 +177,6 @@
                         <ul class="striped">
                             <li>Dixons<br>
                                 Verkoopmedewerker
-                            </li>
-                        </ul>
-
-                        <span class="label">Jun 2014 - Jun 2014</span>
-                        <ul class="striped">
-                            <li>Panoramaflat<br>
-                                Vrijwillegerswerk
-                            </li>
-                        </ul>
-
-                        <span class="label">Apr 2014 - Apr 2014</span>
-                        <ul class="striped">
-                            <li>Dixons<br>
-                                Stagiar / Student
                             </li>
                         </ul>
                     </div>
