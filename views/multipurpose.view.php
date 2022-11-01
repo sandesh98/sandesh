@@ -69,14 +69,14 @@
             </div>
 
             <div class="grid mb-xl">
-                <div class="col-offset-1 col-3 vcenter" style="max-width: 100%; height: auto;">
+                <div class="col-offset-1 col-3 vcenter">
                     <div class="mt-lg">
                         <h2>One Pager</h2>
                         <p>Ik ben 24 jaar oud en woon in Spijkenisse. In mijn vrije tijd pool ik graag of breng een bezoekje aan de sportschool. Mijn eigenschap is dat ik er niet van hou om stil te zitten. Ik probeer altijd bezig te zijn met een project of informatie op te doen om het optimale uit mijzelf te halen.</p>
                     </div>
                 </div>
                 <div class="col-3">
-                    <img src="../resources/images/project/multipurpose/test.png" style="max-width: 440px;">
+                    <img src="../resources/images/project/multipurpose/test.png" style="max-width: 100%; height: auto;">
                 </div>
             </div>
 
