@@ -62,7 +62,7 @@
                 </div>
                 <div class="col-3 vcenter">
                     <div>
-                        <h2>Instagram Swiper</h2>
+                        <h3 class="image-title">Instagram Swiper</h3>
                         <p>De Instragram carousel is de eerste vertelvorm. In 7 slides wordt snel duidelijk wat Bootstrap is, waarom Bootstrap handig is en tot slot hoe Bootstrap ingezet wordt. Het laatste punt wordt nog verder uitgelegd aan de hand van veelgebruikte componenten en de makkelijkste manier om Bootstrap binnen een project te halen.</p>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
             <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vcenter">
                     <div>
-                        <h2>One Pager</h2>
+                        <h3 class="image-title">One Pager</h3>
                         <p>De One Page website is opgezet vanuit een bestaand Bootstrap template. De informatie op de Instagram carousel wordt grotendeels overgenomen en verder uitgelegd op de One Page website. In het laatste gedeelte van de website wordt getoond hoe een simpele One Page portfolio ontleed wordt. Dit is gedaan om de studenten een handvat en zelfvertrouwen te geven om een website zelf te programmeren.</p>
                     </div>
                 </div>

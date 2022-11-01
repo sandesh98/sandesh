@@ -104,3 +104,8 @@ input, input:before, input:after {
     max-width: 100%;
     height: auto;
 }
+
+.image-title {
+    font-size: 40px;
+    font-weight: normal;
+}
