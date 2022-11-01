@@ -29,7 +29,9 @@
                         <h3>Werk</h3>
                         <p>Sinds 2016 ben ik werkzaam bij Amac in Spijkenisse. Amac is de grootste Apple Premium Reseller van Europa. Wat ik leuk vind aan mijn bijbaan is dat ik premium producten mag verkopen aan klanten. Daarbij vind ik klantcontact en de behoefte en wensen van de mensen achterhalen keer op keer leuk om te doen.</p>
                         <a href="https://www.linkedin.com/in/sandesh98/" target="_blank"><i class="fa fa-linkedin fa-social-icons-sm mt-20"></i></a>
-                        <a href="https://github.com/sandesh98" target="_blank"><i class="fa fa-github fa-social-icons-sm mt-20"></i></a>                    
+                        <a href="https://github.com/sandesh98" target="_blank"><i class="fa fa-github fa-social-icons-sm mt-20"></i></a>
+                        <br>
+                        <p><a href="/cv">Of bekijk mijn CV</a></p>
                     </div>
                     <div class="content-block">
                         <h4>Extra weetjes</h4>

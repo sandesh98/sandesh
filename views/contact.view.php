@@ -1,4 +1,4 @@
-<?php require('partials/head.php') ?>
+<?php require 'partials/head.php'; ?>
 
 <!-- Content -->
 <div id="inner">
@@ -9,6 +9,7 @@
                 <div class="grid mbxl">
                     <a href="https://www.linkedin.com/in/sandesh98/" target="_blank"><i class="fa fa-linkedin fa-social-icons"></i></a>
                     <a href="https://github.com/sandesh98" target="_blank"><i class="fa fa-github fa-social-icons"></i></a>
+                    <a href="/cv" target="_blank"><span class="cv-link">Bekijk mijn CV</span></a>
                 </div>
                 <div class="grid mb-xl">
                     <div class="col-4"><a href="mailto:sandeshb981@gmail.com" style="font-size: 36px; font-weight: bold;">sandeshb981@gmail.com</a></div>
@@ -20,4 +21,4 @@
 </div>
 <!-- /Content -->
 
-<?php require('partials/footer.php') ?>
+<?php require 'partials/footer.php'; ?>
