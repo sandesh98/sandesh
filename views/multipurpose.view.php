@@ -26,8 +26,7 @@
             </div>
             <div class="grid content">
                 <div class="col-offset-1 col-3">
-                    <p>Wecollect geeft consumenten een overzicht van al hun actieve en inactieve apparaten die aangesloten staat op hun wifi-netwerk. Vanuit hier biedt de app verschillende mogelijkheden om hun apparaat op een verantwoorde manier te scheiden. Zo krijgen consumenten meer grip op de mogelijkheden om oud elektronica te deponeren.</p>
-                    <a href="https://teammultipurpose.nl/" target="_blank">Link naar de website</a>
+                    <p>Tijdens de minor Interface & User Experience Design ben ik onderzoek gaan doen naar het Framework Bootstrap. De belangrijkste inzichten heb ik verwerkt in een One Page website en in een Instragram Carousel.</p>
                 </div>
                 <div class="col-offset-1 col-1">
                     <div class="project-data">
@@ -35,14 +34,14 @@
                         <div class="desc">Website en illustratie</div>
                     </div>
                     <div class="project-data">
-                        <div class="title">Opdrachtgever</div>
-                        <div class="desc">Hogeschool Rotterdam</div>
+                        <div class="title">Jaar</div>
+                        <div class="desc">2022</div>
                     </div>
                 </div>
                 <div class="col-1">
                     <div class="project-data">
-                        <div class="title">Jaar</div>
-                        <div class="desc">2022</div>
+                        <div class="title">Opdrachtgever</div>
+                        <div class="desc">Hogeschool Rotterdam</div>
                     </div>
                 </div>
             </div>
@@ -50,33 +49,34 @@
     </section>
     <section class="mb-xl">
         <div class="container">
-            <div class="grid mb-xl">
+            <div class="grid mb-lg">
                 <div class="col-offset-1 col-6">
                     <div class="mb-xl">
                         <h2>Aanleiding</h2>
-                        <p>Ik ben 24 jaar oud en woon in Spijkenisse. In mijn vrije tijd pool ik graag of breng een bezoekje aan de sportschool. Mijn eigenschap is dat ik er niet van hou om stil te zitten. Ik probeer altijd bezig te zijn met een project of informatie op te doen om het optimale uit mijzelf te halen.</p>
+                        <p>Voor mijn minor Interface & User Experience Design heb ik de opdracht gekregen om onderzoek te doen naar het Framework Bootstrap. Alle belangrijke inzichten zijn zorgvuldig verwerkt zodat tweedejaars Communicatie en Multimedia Design de informatie kunnen opkijken en bekijken op een One Page website Instagram carousel. Tijdens het project heb ik de volgende ontwerpvraag opgesteld:</p>
+                        <i class="text-muted">“Hoe kunnen wij op een effectieve manier informatie over het Framework Bootstrap overbrengen naar mensen met kennis over HTML en CSS zodat zij responsive en consistente prototypes kunnen ontwikkelen.”</i>
                     </div>
                 </div>
                 <div class="col-offset-1 col-3">
-                    <img src="../resources/images/project/multipurpose/test.png" style="max-width: 100%; height: auto;">
+                    <img src="../resources/images/project/multipurpose/instagram-slider.png" class="image-fluid">
                 </div>
-                <div class="col-3 vcenter" style="max-width: 440px;">
-                    <div class="mt-lg">
+                <div class="col-3 vcenter">
+                    <div>
                         <h2>Instagram Swiper</h2>
-                        <p>Ik ben 24 jaar oud en woon in Spijkenisse. In mijn vrije tijd pool ik graag of breng een bezoekje aan de sportschool. Mijn eigenschap is dat ik er niet van hou om stil te zitten. Ik probeer altijd bezig te zijn met een project of informatie op te doen om het optimale uit mijzelf te halen.</p>
+                        <p>De Instragram carousel is de eerste vertelvorm. In 7 slides wordt snel duidelijk wat Bootstrap is, waarom Bootstrap handig is en tot slot hoe Bootstrap ingezet wordt. Het laatste punt wordt nog verder uitgelegd aan de hand van veelgebruikte componenten en de makkelijkste manier om Bootstrap binnen een project te halen.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="grid mb-xl">
+            <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vcenter">
-                    <div class="mt-lg">
+                    <div>
                         <h2>One Pager</h2>
-                        <p>Ik ben 24 jaar oud en woon in Spijkenisse. In mijn vrije tijd pool ik graag of breng een bezoekje aan de sportschool. Mijn eigenschap is dat ik er niet van hou om stil te zitten. Ik probeer altijd bezig te zijn met een project of informatie op te doen om het optimale uit mijzelf te halen.</p>
+                        <p>De One Page website is opgezet vanuit een bestaand Bootstrap template. De informatie op de Instagram carousel wordt grotendeels overgenomen en verder uitgelegd op de One Page website. In het laatste gedeelte van de website wordt getoond hoe een simpele One Page portfolio ontleed wordt. Dit is gedaan om de studenten een handvat en zelfvertrouwen te geven om een website zelf te programmeren.</p>
                     </div>
                 </div>
                 <div class="col-3">
-                    <img src="../resources/images/project/multipurpose/test.png" style="max-width: 100%; height: auto;">
+                    <img src="../resources/images/project/multipurpose/one-pager.png" class="image-fluid">
                 </div>
             </div>
 
@@ -98,46 +98,6 @@
                                             <li>Figma</li>
                                             <li>Miro</li>
                                             <li>Visual Studio Code</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="head">
-                                <div class="title">Methodes</div>
-                            </div>
-                            <div class="body">
-                                <div class="grid">
-                                    <div class="col-2"><span class="label">Connect</span>
-                                        <ul class="striped inside">
-                                            <li>Deskresearch</li>
-                                            <li>Destep Context Map</li>
-                                            <li>Statements Cards</li>
-                                            <li>Google Form onderzoek</li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="col-2"><span class="label">Concept</span>
-                                        <ul class="striped inside">
-                                            <li>Creatieve sessie H.G. Wells</li>
-                                            <li>Pecha Kucka presentatie</li>
-                                            <li>Reframing</li>
-                                            <li>Ontwerprichtlijnen</li>
-                                            <li>Stakeholder Map</li>
-                                            <li>Persona</li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="col-2"><span class="label">Create</span>
-                                        <ul class="striped inside">
-                                            <li>Overbrug het gat methode</li>
-                                            <li>Sitemap</li>
-                                            <li>Moodboard</li>
-                                            <li>Wireframe</li>
-                                            <li>Testplan</li>
-                                            <li>Prototype</li>
                                         </ul>
                                     </div>
                                 </div>
