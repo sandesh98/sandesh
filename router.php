@@ -18,6 +18,7 @@ $routes = [
     '/dutchdiner' => 'controllers/dutchdiner.php',
     '/cv' => 'controllers/cv.php',
     '/bubba' => 'controllers/bubba.php',
+    '/multipurpose' => 'controllers/multipurpose.php',
 ];
 
 if (array_key_exists($url, $routes)) {

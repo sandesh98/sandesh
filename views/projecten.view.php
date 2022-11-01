@@ -1,4 +1,4 @@
-<?php require('partials/head.php') ?>
+<?php require 'partials/head.php'; ?>
 
 <!-- Content -->
 <div id="inner">
@@ -22,6 +22,17 @@
         <div class="container">
             <div id="project-grid" class="masonry-grid">
 
+                <!-- Project -->
+                <a href="/multipurpose" class="school grid-item col-8">
+                    <div class="thumb">
+                        <img src="../resources/images/project/multipurpose/project-image.jpg">
+                    </div>
+                    <div class="caption">
+                        <div class="title">Schoolproject - Multipurpose</div>
+                        <div class="subtitle">Website</div>
+                    </div>
+                </a>
+            
                 <!-- Project -->
                 <a href="/wecollect" class="school grid-item col-8">
                     <div class="thumb">
@@ -127,4 +138,4 @@
 </div>
 <!-- /Content -->
 
-<?php require('partials/footer.php') ?>
+<?php require 'partials/footer.php'; ?>
