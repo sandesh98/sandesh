@@ -168,8 +168,8 @@
                 <div class="col-6 col-offset-1">
                     <div class="col-4">
                         <div class="vcenter link-container">
-                            <a href="/dutchdiner" class="prev-link">
-                                <div class="project-title">Dutch Diner</div>
+                            <a href="/multipurpose" class="prev-link">
+                                <div class="project-title">Multipurpose</div>
                                 <div class="link-title">Vorige project</div>
                             </a>
                         </div>
