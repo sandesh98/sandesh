@@ -32,7 +32,7 @@
                         hun apparaat op een verantwoorde manier te scheiden. Zo krijgen consumenten meer grip op de
                         mogelijkheden om oud elektronica te deponeren.</p>
                     <a href="https://www.figma.com/proto/KQyJs4PdYRHh4WRAvIbTPx/Final-product?page-id=7%3A3&node-id=43%3A785&viewport=241%2C48%2C0.36&scaling=scale-down&starting-point-node-id=43%3A785"
-                       target="_blank">Link naar Figma prototype</a>
+                       target="_blank">Bekijk het Figma prototype</a>
                 </div>
                 <div class="col-offset-1 col-1">
                     <div class="project-data">

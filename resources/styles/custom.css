@@ -69,6 +69,14 @@ input, input:before, input:after {
     margin-top: 20px;
 }
 
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pt-10 {
+    padding-top: 10px;
+}
+
 .ol-list-info > li {
     color: #979797;
     line-height: 1.55;
@@ -114,4 +122,18 @@ input, input:before, input:after {
     display: inline-block;
     vertical-align: middle;
     float: none;
+}
+
+.btn-see-project {
+    color: #fff;
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 4px;
+    border: 1px solid #fff;
+    transition: .3s;
+}
+
+.btn-see-project:hover {
+    color: #000;
+    background-color: #fff;
 }
