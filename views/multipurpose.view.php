@@ -49,17 +49,20 @@
     </section>
     <section class="mb-xl">
         <div class="container">
-            <div class="grid mb-lg">
-                <div class="col-offset-1 col-6">
-                    <div class="mb-xl">
-                        <h2>Aanleiding</h2>
-                        <p>Eén van de opdrachten die ik tijdens de minor Interface & User Experience Design heb gekregen is om een workshop te organiseren voor tweedejaars Communicatie en Multimedia Design studenten. Het onderwerp waar ik voor gekozen heb is Bootstrap. Alle belangrijke inzichten heb ik zorgvuldig verwerkt in een One Page website en Instagram swiper. Het project heb ik aangepakt aan de hand van de volgende ontwerpvraag:</p>
-                        <i class="text-muted">“Hoe kunnen wij op een effectieve manier informatie over het Framework Bootstrap overbrengen naar mensen met kennis over HTML en CSS zodat zij responsive en consistente prototypes kunnen ontwikkelen.”</i>
-                    </div>
+            <div class="col-offset-1 col-6">
+                <div class="mb-xl">
+                    <h2>Aanleiding</h2>
+                    <p>Eén van de opdrachten die ik tijdens de minor Interface & User Experience Design heb gekregen is om een workshop te organiseren voor tweedejaars Communicatie en Multimedia Design studenten. Het onderwerp waar ik voor gekozen heb is Bootstrap. Alle belangrijke inzichten heb ik zorgvuldig verwerkt in een One Page website en Instagram swiper. Het project heb ik aangepakt aan de hand van de volgende ontwerpvraag:</p>
+                    <i class="text-muted">“Hoe kunnen wij op een effectieve manier informatie over het Framework Bootstrap overbrengen naar mensen met kennis over HTML en CSS zodat zij responsive en consistente prototypes kunnen ontwikkelen.”</i>
                 </div>
+            </div>
+
+
+            <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vertical-center">
                     <img src="../resources/images/project/multipurpose/instagram-slider.png" class="image-fluid">
                 </div>
+
                 <div class="col-3 vertical-center">
                     <div>
                         <h3 class="image-title">Instagram Swiper</h3>
