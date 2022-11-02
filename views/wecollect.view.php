@@ -109,10 +109,10 @@
                 </div>
 
                 <div class="grid">
-                    <div class="col-offset-1 col-3">
+                    <div class="col-offset-1 col-3 vertical-center">
                         <img src="../resources/images/project/wecollect/scannen-en-bekijken.png" class="image-fluid">
                     </div>
-                    <div class="col-3">
+                    <div class="col-3 vertical-center">
                         <div>
                             <h3 class="image-title">Scannen en bekijken</h3>
                             <p>Nadat de app geopend is wordt er direct een netwerkscan gestart. De app kijkt naar alle actieve en non-actieve apparaten die een keer verbonden zijn met het thuisnetwerk. Deze worden vervolgens per categorie weergegeven. Vervolgens kan de gebruiker op een apparaat klikken en ziet alle mogelijkheden om het apparaat op een verantwoorde manier weg te doen.</p>
@@ -121,22 +121,22 @@
                 </div>
 
                 <div class="grid">
-                    <div class="col-3 col-offset-1">
+                    <div class="col-3 col-offset-1 vertical-center">
                         <div>
                             <h3 class="image-title">Inruilen of recyclen</h3>
                             <p>Uit mijn onderzoek is gebleken dat veel mensen niet op de hoogte zijn dat veel alledaagse winkels bakken van Wecycle hebben. Mensen kunnen hier oud elektronica inleveren. Voor veel mensen was dit een oogopener. Daarbij zijn we er ook verschillende winkels waarbij je elektronica in kan leveren voor een klein bedrag.</p>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-3 vertical-center">
                         <img src="../resources/images/project/wecollect/recycle-of-inruilen.png" class="image-fluid">
                     </div>
                 </div>
 
                 <div class="grid">
-                    <div class="col-offset-1 col-3">
+                    <div class="col-offset-1 col-3 vertical-center">
                         <img src="../resources/images/project/wecollect/verkopen.png" class="image-fluid">
                     </div>
-                    <div class="col-3">
+                    <div class="col-3 vertical-center">
                         <div>
                             <h3 class="image-title">Verkopen</h3>
                             <p>Wat ook altijd beter is dan het apparaat in een lade verbergen is het een tweede leven geven. Maar uit mijn onderzoek is gebleken dat mensen onzeker zijn om het apparaat te verkopen. Dit heeft te maken met het feit dat zij niet zeker weten hoe het apparaat teruggezet moet worden naar de fabrieksinstellingen.</p>

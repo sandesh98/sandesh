@@ -109,3 +109,9 @@ input, input:before, input:after {
     font-size: 40px;
     font-weight: normal;
 }
+
+.vertical-center {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
