@@ -26,7 +26,7 @@
             </div>
             <div class="grid content">
                 <div class="col-offset-1 col-3">
-                    <p>Tijdens de minor Interface & User Experience Design ben ik onderzoek gaan doen naar het Framework Bootstrap. De belangrijkste inzichten heb ik verwerkt in een One Page website en in een Instragram Carousel.</p>
+                    <p>Tijdens de minor Interface & User Experience Design ben ik onderzoek gaan doen naar het Framework Bootstrap. De belangrijkste inzichten heb ik verwerkt in een One Page website en in een Instragram swiper.</p>
                 </div>
                 <div class="col-offset-1 col-1">
                     <div class="project-data">
@@ -53,7 +53,7 @@
                 <div class="col-offset-1 col-6">
                     <div class="mb-xl">
                         <h2>Aanleiding</h2>
-                        <p>Eén van de opdrachten die ik tijdens de minor Interface & User Experience Design heb gekregen is om een workshop te organiseren voor tweedejaars Communicatie en Multimedia Design studenten. Het onderwerp waar ik voor gekozen heb is Bootstrap. Alle belangrijke inzichten heb ik zorgvuldig verwerkt in een One Page website en Instagram carousel. Het project heb ik aangepakt aan de hand van de volgende ontwerpvraag:</p>
+                        <p>Eén van de opdrachten die ik tijdens de minor Interface & User Experience Design heb gekregen is om een workshop te organiseren voor tweedejaars Communicatie en Multimedia Design studenten. Het onderwerp waar ik voor gekozen heb is Bootstrap. Alle belangrijke inzichten heb ik zorgvuldig verwerkt in een One Page website en Instagram swiper. Het project heb ik aangepakt aan de hand van de volgende ontwerpvraag:</p>
                         <i class="text-muted">“Hoe kunnen wij op een effectieve manier informatie over het Framework Bootstrap overbrengen naar mensen met kennis over HTML en CSS zodat zij responsive en consistente prototypes kunnen ontwikkelen.”</i>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                 <div class="col-offset-1 col-3 vertical-center">
                     <div>
                         <h3 class="image-title">One Pager</h3>
-                        <p>De One Page website is opgezet vanuit een bestaand Bootstrap template. De informatie op de Instagram carousel wordt grotendeels overgenomen en verder uitgelegd op de One Page website. In het laatste gedeelte van de website wordt getoond hoe een simpele One Page portfolio ontleed wordt. Dit is gedaan om de studenten een handvat en zelfvertrouwen te geven om een website zelf te programmeren.</p>
+                        <p>De One Pager website is opgezet vanuit een bestaand Bootstrap template. De informatie op de Instagram carousel wordt grotendeels overgenomen en verder uitgelegd op de One Page website. In het laatste gedeelte van de website wordt getoond hoe een simpele One Page portfolio ontleed wordt. Dit is gedaan om de studenten een handvat en zelfvertrouwen te geven om een website zelf te programmeren.</p>
                         <div class="pt-10">
                             <a type="button" target="_blank" href="https://teammultipurpose.nl/" class="btn-see-project">Bekijk</a>
                         </div>

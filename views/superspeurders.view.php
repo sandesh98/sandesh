@@ -53,7 +53,7 @@
             </div>
         </div>
     </section>
-    <section class="mb-xl">
+    <section class="mb-lg">
         <div class="container">
             <div class="grid content">
                 <div id="img-carousel" class="titanSlider">
@@ -67,31 +67,68 @@
             </div>
         </div>
     </section>
+
     <section class="mb-xl">
         <div class="container">
+            <div class="grid mb-lg">
+                <div class="col-offset-1 col-6">
+                    <div>
+                        <h2>Aanleiding</h2>
+                        <p>Dit is mijn eerste project waarbij ik samen heb gewerkt met een grote instantie. De ANWB heeft de volgende ontwerpvraag aan mij voorgelegd:</p>
+                        <i class="text-muted">“Hoe kan de ANWB op het gebied van (slimme) mobiliteit meer betekenen voor kinderen in armoede op Rotterdam Zuid?”</i>
+                        <p>Allereest zijn we van start gegaan met Deskresearch doen naar het onderwerp. Uit ons onderzoek hebben we vast kunnen stellen dat de mobiliteit bij kinderen in Rotterdam Zuid erg laag ligt. Veel kinderen gaan te voet of gezamenlijk met hun ouders op pad en zelden zelfstandig. Dit komt doordat Rotterdam Zuid fietsonvriendelijk is. Maar ook omdat de ouders van de kinderen geen fietscultuur hebben waardoor zij dit niet door kunnen geven aan hun kinderen.</p>
+                        <p>Om deze ondervinden te bevestigen zijn we vervolgens Rotterdam Zuid zelf ingegaan en hebben verschillende observatietechnieken ingezet en mensen op straat geïnterviewd. Ook hebben een expert geïnterviewd van Veilig Verkeer Nederland. Hij heeft kort samengevat onze bevinden van ons onderzoek bevestigd en hier meer context over gegeven.</p>
+                        <b>Het concept:</b><br>
+                        <p>Na veel informatie verzameld te hebben zijn we aan de slag gegaan met het uitvoeren van creatieve technieken om tot dit unieke concept te komen:</p>
+                    </div>
+                </div>
+
+                <div class="grid">
+                    <div class="col-offset-1 col-3 vertical-center">
+                        <img src="../resources/images/project/superspeurders/routekaart.png" class="image-fluid">
+                    </div>
+                    <div class="col-3 vertical-center">
+                        <div>
+                            <h3 class="image-title">Speurtocht routekaart</h3>
+                            <p>Het concept is een interactieve speurtocht die kinderen te voet uitvoeren in hun eigen stad Rotterdam. De kinderen lopen een voor uitgestippelde route door hun eigen stad. Daarbij krijgt ieder kind een routekaart waar checkpoint op te vinden zijn.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="grid">
+                    <div class="col-3 col-offset-1 vertical-center">
+                        <div>
+                            <h3 class="image-title">Superspeurders app</h3>
+                            <p>Tijdens het bewandelen van de route moeten de kinderen opletten wanneer zij een QR-code omgeving komen. Hier is het de bedoeling dat zij opzoek gaan naar een QR-code en deze scannen met de app op hun telefoon. De app toont vervolgens een weetje of verkeersvraag.</p>
+                        </div>
+                    </div>
+                    <div class="col-3 vertical-center">
+                        <img src="../resources/images/project/superspeurders/scannen-en-bekijken.png" class="image-fluid">
+                    </div>
+                </div>
+
+                <div class="grid">
+                    <div class="col-offset-1 col-3 vertical-center">
+                        <img src="../resources/images/project/superspeurders/paspoort.png" class="image-fluid">
+                    </div>
+                    <div class="col-3 vertical-center">
+                        <div>
+                            <h3 class="image-title">Paspoort stempelkaart</h3>
+                            <p>De kinderen kunnen zich op den duur ook bevinden in de buurt van checkpoint. Bij een checkpoint krijgen de kinderen een stempel in hun paspoort en om de veiligheid te waarborgen wordt er ook gecontroleerd of het groepje nog steeds compleet is.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="grid">
                 <div class="col-6 col-offset-1">
+                    <div class="body mb-lg">
+                        <p><b>Mijn rol</b><br>
+                            Mijn favoriete onderdeel tijdens het project was het bedenken van het concept aan de hand van verschillende creatieve sessies. Daarbij heb ik mij tijdens het project onderscheiden door het prototype dat gemaakt is te programmeren en te hosten. De web technologie dat ik gebruikt heb bestaat uit HTML, CSS en Alpine.js. Het programmeren van het prototype heeft geleid tot een betere gebruikerservaring voor de correspondenten tijdens het testen.
+                        </p>
+                    </div>
                     <ul class="accordion">
                         <li class="active">
-                            <div class="head">
-                                <div class="title">Meer informatie</div>
-                            </div>
-                            <div class="body">
-                                <p>Dit is de eerste keer dat ik een project mocht uitvoeren waarbij de opdrachtgever een bekend bedrijf is. De opdrachtgever was de ANWB de vraag die zij aan ons stelde luidden als volgt:</p>
-                                <i class="text-muted">“Hoe kan de ANWB op het gebied van (slimme) mobiliteit meer betekenen voor kinderen in armoede op Rotterdam Zuid?”</i>
-                                <p>Allereest zijn we van start gegaan met Deskresearch doen naar het onderwerp. Uit ons onderzoek hebben we vast kunnen stellen dat de mobiliteit bij kinderen in Rotterdam Zuid erg laag ligt. Veel kinderen gaan te voet op gezamenlijk met hun ouders op pad en zelden zelfstandig. Dit heeft te maken doordat Rotterdam Zuid zeer fietsonvriendelijk is. Maar ook omdat de ouders van de kinderen geen fietscultuur hebben waardoor zij dit niet door kunnen geven aan hun kinderen. </p>
-                                <p>Om deze ondervinden te bevestigen zijn we vervolgens Rotterdam Zuid zelf ingegaan en hebben verschillende observatietechnieken ingezet en mensen op straat geïnterviewd. Ook hebben een expert geïnterviewd van Veilig Verkeer Nederland. Hij heeft kort samengevat onze bevinden van ons onderzoek bevestigd en hier meer context over gegeven.</p>
-                                <p>Na veel informatie verzameld te hebben zijn we aan de slag gegaan met het uitvoeren van creatieve technieken om tot een uniek idee te komen. Na een paar convergerende sessies hebben we een top 3 vast weten te leggen. Vervolgens hebben we de drie concepten naar de onze vastgestelde Design Principles gelegd en gekeken welke concept het beste eruit komt.</p>
-                                <p>Het concept:<br>
-                                    Het concept is een interactieve speurtocht die kinderen te voet uitvoeren in hun eigen stad Rotterdam. We hebben expres voor een speurtocht te voet gekozen omdat wij de kinderen niet een fiets kunnen geven en verwachten dat ze allemaal kunnen fietsen. De kinderen lopen een voor uitgestippelde route door hun eigen stad. Zij krijgen een routekaart mee zodat zij precies weten hoe ze moeten lopen. Om ervoor te zorgen dat de kinderen de juiste route blijven volgen worden er checkpunten ingezet. Checkpunten kunnen bijvoorbeeld winkels zijn maar ook speciaal opgezette karren. Bij aankomst van de checkpunt krijgen de kinderen ook stempel in hun paspoort.
-                                </p>
-                                <p>Tijdens het lopen van de lopen van de route kunnen de kinderen ook een in een zogeheten QR-code omgeving komen. Belangrijk is dan dat zij opzoek gaan naar de QR-code en de desbetreffende opdracht uitvoeren op hun telefoon. Deze Qr-code scannen zij aan de hand van een applicatie die al voor geïnstalleerd staat op de mobiele telefoons.</p>
-                                <p><b>Mijn rol</b><br>
-                                    Mijn favoriete onderdeel tijdens het project was het bedenken van het concept aan de hand van verschillende creatieve sessies. Daarbij heb ik mij tijdens het project onderscheiden door het prototype dat gemaakt is te programmeren en te hosten. De web technologie dat ik gebruikt heb bestaat uit HTML, CSS en Alpine.js. Het programmeren van het prototype heeft geleid tot een betere gebruikerservaring voor de correspondenten tijdens het testen.
-                                </p>
-                            </div>
-                        </li>
-                        <li>
                             <div class="head">
                                 <div class="title">Tools</div>
                             </div>
@@ -113,6 +150,7 @@
                                 </div>
                             </div>
                         </li>
+
                         <li>
                             <div class="head">
                                 <div class="title">Methodes</div>
@@ -175,7 +213,6 @@
                                             <li>Fly On The Wall</li>
                                         </ul>
                                     </div>
-
                                 </div>
                             </div>
                         </li>
@@ -184,6 +221,7 @@
             </div>
         </div>
     </section>
+
     <section class="prev-next-container mb-xl">
         <div class="container">
             <div class="grid content">
