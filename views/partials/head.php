@@ -7,10 +7,10 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="description" content="Welkom op mijn website! Mijn naam is Sandesh Boedhoe">
     <meta name="author" content="Sandesh Boedhoe">
-    <link rel="stylesheet" type="text/css" href="../../resources/styles/animsition.css">
-    <link rel="stylesheet" type="text/css" href="../../resources/styles/core.css">
-    <link rel="stylesheet" type="text/css" href="../../resources/styles/custom.css">
-    <link rel="stylesheet" type="text/css" href="../../resources/styles/elements.css">
+    <link rel="stylesheet" type="text/css" href="<?= auto_version('/resources/styles/animsition.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<?= auto_version('/resources/styles/core.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<?= auto_version('/resources/styles/custom.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<?= auto_version('/resources/styles/elements.css') ?>">
     <link rel="apple-touch-icon" sizes="180x180" href="../../resources/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../../resources/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../../resources/images/favicon/favicon-16x16.png">
