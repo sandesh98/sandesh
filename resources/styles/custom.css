@@ -137,3 +137,7 @@ input, input:before, input:after {
     color: #000;
     background-color: #fff;
 }
+
+.hello {
+    color: green;
+}
