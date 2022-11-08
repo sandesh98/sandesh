@@ -4,7 +4,7 @@
     <section class="behind-header">
         <div id="home-slider" class="titanSlider fh fw">
             <div class="hero fs">
-                <div style="background-image: url('../resources/images/home/sandesh.jpg'); background-position: top center" class="bg faded"></div>
+                <div style="background-image: url('../resources/images/home/sandesh.webp'); background-position: top center" class="bg faded"></div>
                 <div class="vcenter">
                     <div class="container">
                         <div class="grid">
