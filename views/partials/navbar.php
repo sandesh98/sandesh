@@ -1,6 +1,6 @@
 <?php
 $activePage = basename($_SERVER['PHP_SELF'], ".php");
-$projectPages = ['projecten', 'wecollect', 'superspeurders', 'abc-hulplijn', 'pscateringservices', 'sportmaatje', 'de-cafe-koers', 'guess-and-win', 'natraj-flyer', 'dutchdiner'];
+$projectPages = ['multipurpose', 'projecten', 'wecollect', 'superspeurders', 'abc-hulplijn', 'pscateringservices', 'sportmaatje', 'de-cafe-koers', 'guess-and-win', 'natraj-flyer', 'dutchdiner'];
 ?>
 <header id="main-header">
     <div class="container">
