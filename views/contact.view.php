@@ -12,7 +12,7 @@
                     <a href="/cv" target="_blank"><span class="cv-link">Bekijk mijn CV</span></a>
                 </div>
                 <div class="grid mb-xl">
-                    <div class="col-4"><a href="mailto:sandeshb981@gmail.com" style="font-size: 36px; font-weight: bold;">sandeshb981@gmail.com</a></div>
+                    <div class="col-4"><a href="mailto:sandeshb981@gmail.com" class="email-cta">sandeshb981@gmail.com</a></div>
                     <div class="col-2"><span class="label label-white">Spijkenisse</span></div>
                 </div>
             </div>
