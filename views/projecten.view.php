@@ -23,6 +23,17 @@
             <div id="project-grid" class="masonry-grid">
 
                 <!-- Project -->
+                <a href="/globetrotters" class="school grid-item col-8">
+                    <div class="thumb">
+                        <img src="../resources/images/project/globetrotters/project-image.jpg">
+                    </div>
+                    <div class="caption">
+                        <div class="title">Schoolproject - Globetrotters</div>
+                        <div class="subtitle">Website</div>
+                    </div>
+                </a>
+
+                <!-- Project -->
                 <a href="/multipurpose" class="school grid-item col-8">
                     <div class="thumb">
                         <img src="../resources/images/project/multipurpose/project-image.jpg">
