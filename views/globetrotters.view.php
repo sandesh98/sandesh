@@ -3,7 +3,7 @@
 <div id="inner">
     <section class="nmb behind-header">
         <div class="hero">
-            <div style="background-image: url('../resources/images/project/multipurpose/header.jpg');"
+            <div style="background-image: url('../resources/images/project/globetrotters/preview.png');"
                  class="bg faded"></div>
             <div class="vcenter">
                 <div class="container mb-xl">
@@ -20,18 +20,16 @@
     </section>
     <section class="mb-xl">
         <div class="container">
-            <div class="grid content">-->
+            <div class="grid content">
                 <div class="col-6 col-offset-1">
-                    <div class="video-frame mb-xl">
-                        <iframe width="640" height="360" src="https://www.youtube.com/embed/5A5J-YjasoY" frameborder="0"
-                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
+                    <img src="../resources/images/project/globetrotters/preview.png" alt="">
                 </div>
             </div>
             <div class="grid content">
                 <div class="col-offset-1 col-3">
-                    <p>Tijdens de Minor Interface & User Experience Design hebben mijn team en ik een interactieve augmented applicatie bedacht en gerealiseerd. De app zorgt ervoor dat kinderen tussen de 6 en 10 jaar de lesstof wereldoriëntatie langer onthouden.</p>
+                    <p>Tijdens de Minor Interface & User Experience Design hebben mijn team en ik een interactieve
+                        augmented applicatie bedacht en gerealiseerd. De app zorgt ervoor dat kinderen tussen de 6 en 10
+                        jaar de lesstof wereldoriëntatie langer onthouden.</p>
                 </div>
                 <div class="col-offset-1 col-1">
                     <div class="project-data">
@@ -61,59 +59,83 @@
             <div class="col-offset-1 col-6">
                 <div class="mb-xl">
                     <h2>Aanleiding</h2>
-                    <p>Eén van de opdrachten die ik tijdens de minor Interface & User Experience Design heb gekregen is
-                        om een workshop te organiseren voor tweedejaars Communicatie en Multimedia Design studenten. Het
-                        onderwerp waar ik voor gekozen heb is Bootstrap. Alle belangrijke inzichten heb ik zorgvuldig
-                        verwerkt in een One Page website en Instagram swiper. Het project heb ik aangepakt aan de hand
-                        van de volgende ontwerpvraag:</p>
-                    <i class="text-muted">“Hoe kunnen wij op een effectieve manier informatie over het Framework
-                        Bootstrap overbrengen naar mensen met kennis over HTML en CSS zodat zij responsive en
-                        consistente prototypes kunnen ontwikkelen.”</i>
+                    <p>Tijdens de minor hebben mijn team en ik een augmented reality applicatie bedacht en gerealiseerd
+                        voor kinderen tussen 6 en 10 jaar zodat zij de wereldoriëntatie lesstof langer blijven
+                        onthouden. </p>
+                    <p>Tijdens ons onderzoek hebben we verschillende basisschooldocenten gesproken en creatieve sessies
+                        met hen gehouden. Tijdens deze sessies hebben wij kunnen concluderen dat het inzetten van AR het
+                        best tot zijn recht komt bij de lessen wereldoriëntatie en dat de technologie ervoor zal zorgen
+                        dat de lesstof langer blijft hangen. De ontwerpvraag die vanuit hier ontstaan is luidt:</p>
+                    <i class="text-muted">“Hoe kunnen we door middel van AR, de wereldoriëntatielessen interactiever en
+                        persoonlijker maken, zodat kinderen tussen de 6 en 10 de lesstof langer onthouden/bewuster
+                        herinneren?”</i>
                 </div>
             </div>
 
 
             <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vertical-center hidden-xs">
-                    <img src="../resources/images/project/multipurpose/instagram-slider.png" class="image-fluid">
+                    <img src="../resources/images/project/globetrotters/feature-1.png" class="image-fluid">
                 </div>
 
                 <div class="col-3 vertical-center">
                     <div>
-                        <h3 class="image-title">Instagram Swiper</h3>
-                        <p>De Instragram carousel is de eerste vertelvorm. In 7 slides wordt snel duidelijk wat
-                            Bootstrap is, waarom Bootstrap handig is en tot slot hoe Bootstrap ingezet wordt. Het
-                            laatste punt wordt nog verder uitgelegd aan de hand van veelgebruikte componenten en de
-                            makkelijkste manier om Bootstrap binnen een project te halen.</p>
-                        <div class="pt-10">
-                            <a type="button" target="_blank" href="https://www.instagram.com/teammultipurpose/"
-                               class="btn-see-project">Bekijk</a>
-                        </div>
+                        <h3 class="image-title">Een wereld in AR</h3>
+                        <p>Met het gebruik van Augmented reality willen we de werelden waar kinderen over leren echt tot
+                            leven laten komen. Dit zorgt voor meer inlevingsvermogen bij de kinderen en maakt de les
+                            tevens interactiever en memorabeler.</p>
                     </div>
                 </div>
 
                 <div class="col-offset-1 col-3 vertical-center hidden-lg hidden-md hidden-sm">
-                    <img src="../resources/images/project/multipurpose/instagram-slider.png" class="image-fluid">
+                    <img src="../resources/images/project/globetrotters/feature-1.png" class="image-fluid">
                 </div>
             </div>
 
             <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vertical-center">
                     <div>
-                        <h3 class="image-title">One Pager</h3>
-                        <p>De One Pager website is opgezet vanuit een bestaand Bootstrap template. De informatie op de
-                            Instagram carousel wordt grotendeels overgenomen en verder uitgelegd op de One Page website.
-                            In het laatste gedeelte van de website wordt getoond hoe een simpele One Page portfolio
-                            ontleed wordt. Dit is gedaan om de studenten een handvat en zelfvertrouwen te geven om een
-                            website zelf te programmeren.</p>
-                        <div class="pt-10">
-                            <a type="button" target="_blank" href="https://teammultipurpose.nl/"
-                               class="btn-see-project">Bekijk</a>
-                        </div>
+                        <h3 class="image-title">Zoeken naar artefacten</h3>
+                        <p>Kinderen gaan gezamenlijk opzoek naar artefacten waarna zij hier meer informatie over
+                            krijgen. Vervolgens krijgen zij een vraag om te controleren of de stof goed begrepen is.
+                            Hierbij is het de bedoeling om alle artefacten te verzamelen die verborgen zitten in de
+                            map.</p>
                     </div>
                 </div>
                 <div class="col-3 vertical-center">
-                    <img src="../resources/images/project/multipurpose/one-pager.png" class="image-fluid">
+                    <img src="../resources/images/project/globetrotters/feature-2.png" class="image-fluid">
+                </div>
+            </div>
+
+            <div class="grid mb-lg">
+                <div class="col-offset-1 col-3 vertical-center hidden-xs">
+                    <img src="../resources/images/project/globetrotters/feature-3.png" class="image-fluid">
+                </div>
+
+                <div class="col-3 vertical-center">
+                    <div>
+                        <h3 class="image-title">Werken in tweetallen</h3>
+                        <p>Uit ons onderzoek bleek dat het stimulerend is voor kinderen om samen te werken. Hierbij
+                            kunnen ze elkaar ondersteunen en van elkaar leren. Om deze reden hebben wij dit in ons
+                            concept verwerkt. Het spel genereert van te voren tweetallen die de leraar eventueel nog kan
+                            aanpassen indien dat gewenst is.</p>
+                    </div>
+                </div>
+
+                <div class="col-offset-1 col-3 vertical-center hidden-lg hidden-md hidden-sm">
+                    <img src="../resources/images/project/globetrotters/feature-3.png" class="image-fluid">
+                </div>
+            </div>
+
+            <div class="grid mb-lg">
+                <div class="col-offset-1 col-3 vertical-center">
+                    <div>
+                        <h3 class="image-title">Elkaar helpen</h3>
+                        <p>Sommige leerlingen zijn sneller klaar dan anderen. Om deze reden hebben wij een optie toegevoegd waarbij leerlingen die eerder klaar zijn anderen kunnen helpen. Zo krijgen de leerlingen die wat langzamer zin extra ondersteuning en wordt de werkdruk van de leraar verlicht. Ook worden de leerlingen die anderen helpen extra beloond.</p>
+                    </div>
+                </div>
+                <div class="col-3 vertical-center">
+                    <img src="../resources/images/project/globetrotters/feature-4.png" class="image-fluid">
                 </div>
             </div>
 
