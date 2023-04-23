@@ -107,6 +107,25 @@
                 </div>
             </div>
 
+            <section class="mb-lg">
+                <div class="container">
+                    <div class="grid content">
+                        <div id="img-carousel" class="titanSlider">
+                            <ul class="slides">
+                                <li class="slide"><img src="../resources/images/project/globetrotters/carousel/carousel-1.jpg"
+                                                       class="fw"></li>
+                                <li class="slide"><img src="../resources/images/project/globetrotters/carousel/carousel-2.jpg"
+                                                       class="fw"></li>
+                                <li class="slide"><img src="../resources/images/project/globetrotters/carousel/carousel-3.jpg"
+                                                       class="fw"></li>
+                                <li class="slide"><img src="../resources/images/project/globetrotters/carousel/carousel-4.jpg"
+                                                       class="fw"></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vertical-center hidden-xs">
                     <img src="../resources/images/project/globetrotters/feature-3.png" class="image-fluid">
@@ -136,6 +155,26 @@
                 </div>
                 <div class="col-3 vertical-center">
                     <img src="../resources/images/project/globetrotters/feature-4.png" class="image-fluid">
+                </div>
+            </div>
+
+            <div class="grid mb-lg">
+                <div class="col-offset-1 col-3 vertical-center hidden-xs">
+                    <img src="../resources/images/project/globetrotters/one-pager.png" class="image-fluid">
+                </div>
+
+                <div class="col-3 vertical-center">
+                    <div>
+                        <h3 class="image-title">Instagram Swiper</h3>
+                        <p>Aanvullend hebben we een one page website moeten opzetten waarin wij ons product presenteren. De designers binnen het team zijn aan de slag gegaan met het ontwerp en ik heb vervolgens de website ontwikkelt met Bootstrap 5.</p>
+                        <div class="pt-10">
+                            <a type="button" target="_blank" href="https://inyourfaceinterface.nl/" class="btn-see-project">Bekijk</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-offset-1 col-3 vertical-center hidden-lg hidden-md hidden-sm">
+                    <img src="../resources/images/project/globetrotters/one-pager.png" class="image-fluid">
                 </div>
             </div>
 
