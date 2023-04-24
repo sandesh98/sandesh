@@ -112,14 +112,18 @@
                     <div class="grid content">
                         <div id="img-carousel" class="titanSlider">
                             <ul class="slides">
-                                <li class="slide"><img src="../resources/images/project/globetrotters/carousel/carousel-1.jpg"
-                                                       class="fw"></li>
-                                <li class="slide"><img src="../resources/images/project/globetrotters/carousel/carousel-2.jpg"
-                                                       class="fw"></li>
-                                <li class="slide"><img src="../resources/images/project/globetrotters/carousel/carousel-3.jpg"
-                                                       class="fw"></li>
-                                <li class="slide"><img src="../resources/images/project/globetrotters/carousel/carousel-4.jpg"
-                                                       class="fw"></li>
+                                <li class="slide"><img
+                                            src="../resources/images/project/globetrotters/carousel/carousel-1.jpg"
+                                            class="fw"></li>
+                                <li class="slide"><img
+                                            src="../resources/images/project/globetrotters/carousel/carousel-2.jpg"
+                                            class="fw"></li>
+                                <li class="slide"><img
+                                            src="../resources/images/project/globetrotters/carousel/carousel-3.jpg"
+                                            class="fw"></li>
+                                <li class="slide"><img
+                                            src="../resources/images/project/globetrotters/carousel/carousel-4.jpg"
+                                            class="fw"></li>
                             </ul>
                         </div>
                     </div>
@@ -150,7 +154,10 @@
                 <div class="col-offset-1 col-3 vertical-center">
                     <div>
                         <h3 class="image-title">Elkaar helpen</h3>
-                        <p>Sommige leerlingen zijn sneller klaar dan anderen. Om deze reden hebben wij een optie toegevoegd waarbij leerlingen die eerder klaar zijn anderen kunnen helpen. Zo krijgen de leerlingen die wat langzamer zin extra ondersteuning en wordt de werkdruk van de leraar verlicht. Ook worden de leerlingen die anderen helpen extra beloond.</p>
+                        <p>Sommige leerlingen zijn sneller klaar dan anderen. Om deze reden hebben wij een optie
+                            toegevoegd waarbij leerlingen die eerder klaar zijn anderen kunnen helpen. Zo krijgen de
+                            leerlingen die wat langzamer zin extra ondersteuning en wordt de werkdruk van de leraar
+                            verlicht. Ook worden de leerlingen die anderen helpen extra beloond.</p>
                     </div>
                 </div>
                 <div class="col-3 vertical-center">
@@ -166,9 +173,12 @@
                 <div class="col-3 vertical-center">
                     <div>
                         <h3 class="image-title">Instagram Swiper</h3>
-                        <p>Aanvullend hebben we een one page website moeten opzetten waarin wij ons product presenteren. De designers binnen het team zijn aan de slag gegaan met het ontwerp en ik heb vervolgens de website ontwikkelt met Bootstrap 5.</p>
+                        <p>Aanvullend hebben we een one page website moeten opzetten waarin wij ons product presenteren.
+                            De designers binnen het team zijn aan de slag gegaan met het ontwerp en ik heb vervolgens de
+                            website ontwikkelt met Bootstrap 5.</p>
                         <div class="pt-10">
-                            <a type="button" target="_blank" href="https://inyourfaceinterface.nl/" class="btn-see-project">Bekijk</a>
+                            <a type="button" target="_blank" href="https://inyourfaceinterface.nl/"
+                               class="btn-see-project">Bekijk</a>
                         </div>
                     </div>
                 </div>
@@ -181,6 +191,15 @@
 
             <div class="grid">
                 <div class="col-6 col-offset-1">
+                    <div class="body mb-lg">
+                        <p><b>Mijn rol</b><br>
+                            Mijn favoriete onderdeel tijdens het project was het bedenken van het concept aan de hand
+                            van verschillende creatieve sessies. Daarbij heb ik mij tijdens het project onderscheiden
+                            door het prototype dat gemaakt is te programmeren en te hosten. De web technologie dat ik
+                            gebruikt heb bestaat uit HTML, CSS en Alpine.js. Het programmeren van het prototype heeft
+                            geleid tot een betere gebruikerservaring voor de correspondenten tijdens het testen.
+                        </p>
+                    </div>
                     <ul class="accordion">
                         <li class="active">
                             <div class="head">
@@ -188,14 +207,70 @@
                             </div>
                             <div class="body">
                                 <div class="grid">
-                                    <div class="col-2"><span class="label">Programma's</span>
+                                    <div class="col-2"><span class="label">Design Programma's</span>
                                         <ul class="striped inside">
+                                            <li>Adobe Illustrator</li>
+                                            <li>Adobe Indesign</li>
                                             <li>Adobe Photoshop</li>
-                                            <li>Adobe After Effects</li>
-                                            <li>Apple Illustrator</li>
+                                            <li>Adobe Premiere Pro</li>
+                                            <li>Apple Keynote</li>
                                             <li>Figma</li>
                                             <li>Miro</li>
-                                            <li>Visual Studio Code</li>
+                                            <li>Canva</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-2"><span class="label">AR Programma's</span>
+                                        <ul class="striped inside">
+                                            <li>CoSpaces</li>
+                                            <li>Blender</li>
+                                            <li>VSCode</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="head">
+                                <div class="title">Methodes</div>
+                            </div>
+                            <div class="body">
+                                <div class="grid">
+                                    <div class="col-2"><span class="label">Discover</span>
+                                        <ul class="striped inside">
+                                            <li>SWOT-analyse</li>
+                                            <li>Desk research</li>
+                                            <li>Expert interview</li>
+                                            <li>Interview met doelgroep</li>
+                                            <li>Interview met stakeholders</li>
+                                            <li>Ontwerprichtlijnen</li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="col-2"><span class="label">Ideate</span>
+                                        <ul class="striped inside">
+                                            <li>Disney Methode</li>
+                                            <li>Reframing the problem</li>
+                                            <li>Conceptkaarten</li>
+                                            <li>Conceptkaarten</li>
+                                            <li>AR VS VR benchmark</li>
+                                            <li>Minimum Viable Product</li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="col-2"><span class="label">Design</span>
+                                        <ul class="striped inside">
+                                            <li>Concept test</li>
+                                            <li>Moodboard</li>
+                                            <li>Starburst</li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="col-2"><span class="label">Deliver</span>
+                                        <ul class="striped inside">
+                                            <li>Customer Journey</li>
+                                            <li>User Stories</li>
+                                            <li>User Story Map</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -204,6 +279,7 @@
                     </ul>
                 </div>
             </div>
+
         </div>
     </section>
     <section class="prev-next-container mb-xl">
@@ -233,153 +309,3 @@
 </div>
 
 <?php require 'partials/footer.php'; ?>
-
-
-
-<?php /*require('partials/head.php') */ ?>
-<!---->
-<!--<!-- Content -->-->
-<!--<div id="inner">-->
-<!--    <section class="nmb behind-header">-->
-<!--        <div class="hero">-->
-<!--            <div style="background-image: url('../resources/images/project/sportmaatje/header.jpg');" class="bg faded"></div>-->
-<!--            <div class="vcenter">-->
-<!--                <div class="container mb-xl">-->
-<!--                    <div class="grid">-->
-<!--                        <div class="col-1">2023</div>-->
-<!--                        <div class="col-7">-->
-<!--                            <div class="label">Januari</div>-->
-<!--                            <h1 class="animatedText">Globetrotters</h1>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
-<!--    <section class="mb-xl">-->
-<!--        <div class="container">-->
-<!--            <div class="grid content">-->
-<!--                <div class="col-6 col-offset-1">-->
-<!--                    <div class="video-frame mb-xl">-->
-<!--                        <iframe width="640" height="360" src="https://www.youtube.com/embed/5A5J-YjasoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--            <div class="grid content">-->
-<!--                <div class="col-offset-1 col-3">-->
-<!--                    <p>Sportmaatje is een app speciaal voor eenzame ouderen tussen de leeftijd 55 en 65 jaar oud. De app moet ouderen stimuleren om een maatje te vinden en vervolgens met de maatje af te spreken om te gaan sporten.</p>-->
-<!--                    <a href="https://xd.adobe.com/view/637c77ce-6377-4cad-5b3b-3fb5003b6987-154d/" target="_blank">Link naar Adobe XD</a>-->
-<!--                </div>-->
-<!--                <div class="col-offset-1 col-1">-->
-<!--                    <div class="project-data">-->
-<!--                        <div class="title">Type</div>-->
-<!--                        <div class="desc">Prototype</div>-->
-<!--                    </div>-->
-<!--                    <div class="project-data">-->
-<!--                        <div class="title">Opdrachtgever</div>-->
-<!--                        <div class="desc">online department</div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--                <div class="col-1">-->
-<!--                    <div class="project-data">-->
-<!--                        <div class="title">Jaar</div>-->
-<!--                        <div class="desc">2020</div>-->
-<!--                    </div>-->
-<!--                    <div class="project-data">-->
-<!--                        <div class="title">Onder leiding van</div>-->
-<!--                        <div class="desc">Hogeschool Rotterdam</div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
-<!--    <section class="mb-xl">-->
-<!--        <div class="container">-->
-<!--            <div class="grid content">-->
-<!--                <div id="img-carousel" class="titanSlider">-->
-<!--                    <ul class="slides">-->
-<!--                        <li class="slide"><img src="../resources/images/project/sportmaatje/carousel/carousel-1.jpg" class="fw"></li>-->
-<!--                        <li class="slide"><img src="../resources/images/project/sportmaatje/carousel/carousel-2.jpg" class="fw"></li>-->
-<!--                        <li class="slide"><img src="../resources/images/project/sportmaatje/carousel/carousel-3.jpg" class="fw"></li>-->
-<!--                        <li class="slide"><img src="../resources/images/project/sportmaatje/carousel/carousel-4.jpg" class="fw"></li>-->
-<!--                    </ul>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
-<!--    <section class="mb-xl">-->
-<!--        <div class="container">-->
-<!--            <div class="grid">-->
-<!--                <div class="col-6 col-offset-1">-->
-<!--                    <ul class="accordion">-->
-<!--                        <li class="active">-->
-<!--                            <div class="head">-->
-<!--                                <div class="title">Meer informatie</div>-->
-<!--                            </div>-->
-<!--                            <div class="body">-->
-<!--                                <p>Mijn groep en ik hebben onder leiding van Online Departement en Hogeschool Rotterdam het idee Sportmaatje uitgewerkt tot een clickable prototype. Het idee is tijdens een voorgaand project bedacht. Aan ons om concept te kiezen en deze verder uit te werken.</p>-->
-<!--                                <p>Ik was de teamcaptain binnen het project. Voor mij is een teamcaptain iemand die het overzicht en zijn hoofd koel moet blijven houden. Een teamcaptain heeft niet meer te zeggen dan de rest van het team.</p>-->
-<!--                                <p>Het concept Sportmaatje is tijdens een voorgaand project bedacht, net als vele andere concepten. Allereerst hebben wij een conceptkeuze moeten maken doormiddel van een Prefix Matrix methode. Op basis van criteria zoals het risico, de effort en het gevoel is de keuze gevallen op Sportmaatje. Vervolgens hebben wij het onderzoek van sportmaatje doorgenomen en een interview opgesteld bij de doelgroep om de inzichten uit dat onderzoek te bevestigen. Mijn taak hierin was om een interviewplan op te stellen waarin zaken staan zoals de doelgroep, de vragen en wat voor soort interview het gaat worden. In dit geval was het een gestructureerd interview.</p>-->
-<!--                                <p>Samen met onderzoeken zijn we ook aan de slag gegaan met een co-creatie sessie. Deze sessie hebben wij kunnen doen met Hogeschool Maastricht. Mijn rol hierin was om de sessie voor te bereiden en te verzorgen. Mijn teamgenoten hebben geobserveerd en foto’s gemaakt. Na vele ideeën opgedaan te hebben, zijn deze gefilterd doormiddel van dotvoting.</p>-->
-<!--                                <p>Vervolgens zij wij aan de slag gegaan met een low-fid prototype. Deze hebben wij op papier gemaakt en getest bij de doelgroep. Itererend zijn wij verdergegaan met een low-prototype naar een high-fidality in Adobe XD. In totaal hebben wij 4 iteraties gehad voordat het project voorbij was. Mijn rol bij elke iteratie was het verzorgen van een testplan en een groepsopdracht was om de testen uit te voeren. Elke week kwamen wij bij elkaar om de resultaten te bespreken en aan de hand van de Design Principles en Guidelines te kijken wat de volgende aanpassingen zijn.</p>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                        <li>-->
-<!--                            <div class="head">-->
-<!--                                <div class="title">Tools</div>-->
-<!--                            </div>-->
-<!--                            <div class="body">-->
-<!--                                <div class="grid">-->
-<!--                                    <div class="col-2"><span class="label">Programma's</span>-->
-<!--                                        <ul class="striped inside">-->
-<!--                                            <li>Adobe XD</li>-->
-<!--                                            <li>Adobe Illustrator</li>-->
-<!--                                            <li>Adobe Premiere</li>-->
-<!--                                            <li>Microsoft Teams</li>-->
-<!--                                            <li>Miro</li>-->
-<!--                                        </ul>-->
-<!--                                    </div>-->
-<!--                                    <div class="col-2"><span class="label">Projectleden</span>-->
-<!--                                        <ul class="striped inside">-->
-<!--                                            <li>Anne Bruin</li>-->
-<!--                                            <li>Sandesh Boedhoe</li>-->
-<!--                                            <li>Seyda Kocaer</li>-->
-<!--                                            <li>Tristan Bijl</li>-->
-<!--                                        </ul>-->
-<!--                                    </div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-<!--                    </ul>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
-<!--    <section class="prev-next-container mb-xl">-->
-<!--        <div class="container">-->
-<!--            <div class="grid content">-->
-<!--                <div class="col-6 col-offset-1">-->
-<!--                    <div class="col-4">-->
-<!--                        <div class="vcenter link-container">-->
-<!--                            <a href="/pscateringservices" class="prev-link">-->
-<!--                                <div class="project-title">P.S. Catering Services</div>-->
-<!--                                <div class="link-title">Vorige project</div>-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                    <div class="col-4">-->
-<!--                        <div class="vcenter link-container text-right">-->
-<!--                            <a href="/de-cafe-koers" class="next-link">-->
-<!--                                <div class="project-title">De Café Koers</div>-->
-<!--                                <div class="link-title">Volgende project</div>-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
-<!--</div>-->
-<!--<!-- /Content -->-->
-<!---->
-<?php //require('partials/footer.php') ?>
