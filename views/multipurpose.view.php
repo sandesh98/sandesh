@@ -59,7 +59,7 @@
 
 
             <div class="grid mb-lg">
-                <div class="col-offset-1 col-3 vertical-center">
+                <div class="col-offset-1 col-3 vertical-center hidden-xs">
                     <img src="../resources/images/project/multipurpose/instagram-slider.png" class="image-fluid">
                 </div>
 
@@ -71,6 +71,10 @@
                             <a type="button" target="_blank" href="https://www.instagram.com/teammultipurpose/" class="btn-see-project">Bekijk</a>
                         </div>
                     </div>
+                </div>
+
+                <div class="col-offset-1 col-3 vertical-center hidden-lg hidden-md hidden-sm">
+                    <img src="../resources/images/project/multipurpose/instagram-slider.png" class="image-fluid">
                 </div>
             </div>
 
@@ -123,8 +127,8 @@
                 <div class="col-6 col-offset-1">
                     <div class="col-4">
                         <div class="vcenter link-container">
-                            <a href="/dutchdiner" class="prev-link">
-                                <div class="project-title">Dutch Diner</div>
+                            <a href="/globetrotters" class="prev-link">
+                                <div class="project-title">Globetrotters</div>
                                 <div class="link-title">Vorige project</div>
                             </a>
                         </div>
