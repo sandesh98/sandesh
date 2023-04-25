@@ -113,8 +113,8 @@
                     </div>
                     <div class="col-4">
                         <div class="vcenter link-container text-right">
-                            <a href="/multipurpose" class="next-link">
-                                <div class="project-title">Multipurpose</div>
+                            <a href="/globetrotters" class="next-link">
+                                <div class="project-title">Globetrotters</div>
                                 <div class="link-title">Volgende project</div>
                             </a>
                         </div>
