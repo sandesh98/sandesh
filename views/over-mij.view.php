@@ -31,7 +31,7 @@
                         <a href="https://www.linkedin.com/in/sandesh98/" target="_blank"><i class="fa fa-linkedin fa-social-icons-sm mt-20"></i></a>
                         <a href="https://github.com/sandesh98" target="_blank"><i class="fa fa-github fa-social-icons-sm mt-20"></i></a>
                         <br>
-                        <p><a href="/cv">Of bekijk mijn CV</a></p>
+                        <p><a href="/cv" target="_blank">Of bekijk mijn CV</a></p>
                     </div>
                     <div class="content-block">
                         <h4>Extra weetjes</h4>
