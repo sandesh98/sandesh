@@ -22,7 +22,7 @@
         <div class="container">
             <div class="grid content">
                 <div class="col-6 col-offset-1">
-                    <img src="../resources/images/project/globetrotters/preview.png" alt="">
+                    <img src="../resources/images/project/globetrotters/header.png" alt="">
                 </div>
             </div>
             <div class="grid content">
@@ -172,7 +172,7 @@
 
                 <div class="col-3 vertical-center">
                     <div>
-                        <h3 class="image-title">Instagram Swiper</h3>
+                        <h3 class="image-title">One Pager</h3>
                         <p>Aanvullend hebben we een one page website moeten opzetten waarin wij ons product presenteren.
                             De designers binnen het team zijn aan de slag gegaan met het ontwerp en ik heb vervolgens de
                             website ontwikkelt met Bootstrap 5.</p>
@@ -193,11 +193,13 @@
                 <div class="col-6 col-offset-1">
                     <div class="body mb-lg">
                         <p><b>Mijn rol</b><br>
-                            Mijn favoriete onderdeel tijdens het project was het bedenken van het concept aan de hand
-                            van verschillende creatieve sessies. Daarbij heb ik mij tijdens het project onderscheiden
-                            door het prototype dat gemaakt is te programmeren en te hosten. De web technologie dat ik
-                            gebruikt heb bestaat uit HTML, CSS en Alpine.js. Het programmeren van het prototype heeft
-                            geleid tot een betere gebruikerservaring voor de correspondenten tijdens het testen.
+                            Tijdens de Minor ben ik als Creative Technologist & Prototyper aan de slag gegaan. Ik heb
+                            nieuwe technologieën ontdekt en ik heb mij verdiept in het maken van een spel in AR. Ik was
+                            al bekend met de term augmented reality maar vanwege de steile learning curve nooit iets
+                            meegedaan, laat staan een volledig spel ontwikkelen. De verantwoordelijkheid voor het
+                            ontwikkelen van een digitaal product lag vanwege mijn rol bij mij. Gelukkig heb ik veel tips
+                            van mijn peers gekregen om geleidelijk het AR gebied te verkennen. Tijdens de minor heb ik
+                            mijzelf overtroffen door de realisatie van het spel.
                         </p>
                     </div>
                     <ul class="accordion">
