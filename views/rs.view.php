@@ -35,12 +35,12 @@
 <div class="container">
     <h1 class="pt-5 pb-3">RS Soundboard</h1>
 
-    <div class="card rounded-4">
+    <div class="card rounded-4 mb-4">
         <div class="card-body">
             <div class="d-flex align-items-center" style="gap: 24px">
                 <div class="px-2">
                     <button onclick="playSound('sound1')">
-                        <i class="bi bi-play-fill" style="font-size: 2.4rem;"></i>
+                        <i class="bi bi-play-fill" id="sound1" style="font-size: 2.4rem;"></i>
                     </button>
                 </div>
                 <div>
@@ -51,7 +51,6 @@
         </div>
     </div>
 
-
 </div>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-138942259-1"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
@@ -61,7 +60,7 @@
     function playSound(sound) {
         console.log(sound);
         // setAnimation();
-        let sound1 = 'resources/sounds/piraat.mp3';
+        let sound1 = 'resources/sounds/audio1.m4a';
         let sound2 = 'resources/sounds/piraat.mp3';
         let sound3 = 'resources/sounds/piraat.mp3';
 
@@ -87,6 +86,9 @@
     }
 
     function setAnimation() {
+        let icon = document.getElementById('#sound1');
+        console.log(icon);
+
         // console.log('animation');
     }
 </script>
