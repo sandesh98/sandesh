@@ -20,6 +20,7 @@ $routes = [
     '/bubba' => 'controllers/bubba.php',
     '/multipurpose' => 'controllers/multipurpose.php',
     '/globetrotters' => 'controllers/globetrotters.php',
+    '/rs' => 'controllers/rs.php'
 ];
 
 if (array_key_exists($url, $routes)) {
