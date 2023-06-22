@@ -11,7 +11,7 @@
                             <div class="col-11 col-offset-1">
                                 <h1 class="animatedText" style="margin-bottom: 10px;">Sandesh Boedhoe</h1>
                                 <div class="">
-                                     <p class="subtitle">Mijn naam is Sandesh en ik ben 24 jaar oud en volg de opleiding Communicatie Multimedia Design aan Hogeschool Rotterdam. <br>
+                                     <p class="subtitle">Mijn naam is Sandesh en ik ben 25 jaar oud en volg de opleiding Communicatie Multimedia Design aan Hogeschool Rotterdam. <br>
                                          In de periode september 2023 tot en met februari 2024 ben ik opzoek naar een afstudeerbedrijf.
                                      </p>
                                 </div>
