@@ -22,7 +22,7 @@
                 <div class="col-3">
                     <div class="content-block">
                         <h2>Hi, mijn naam is Sandesh</h2>
-                        <p>Ik ben 24 jaar oud en woon in Spijkenisse. In mijn vrije tijd pool ik graag of breng een bezoekje aan de sportschool. Mijn eigenschap is dat ik er niet van hou om stil te zitten. Ik probeer altijd bezig te zijn met een project of informatie op te doen om het optimale uit mijzelf te halen.</p>
+                        <p>Ik ben 25 jaar oud en woon in Spijkenisse. In mijn vrije tijd pool ik graag of breng een bezoekje aan de sportschool. Mijn eigenschap is dat ik er niet van hou om stil te zitten. Ik probeer altijd bezig te zijn met een project of informatie op te doen om het optimale uit mijzelf te halen.</p>
                         <h3>School</h3>
                         <p>Momenteel zit ik in het laatste jaar van de opleiding Communicatie en Multimedia Design aan Hogeschool Rotterdam. Gedurende de opleiding ben ik erachter gekomen dat ik een passie heb voor technologie en prototyping. Verder vind ik de opleiding ontzettend uitdagend omdat geen enkel project hetzelfde is.</p>
                         <p>In september 2023 start ik met afstuderen. Ik ben erachter gekomen dat ik mij graag bezighoud met projecten die zich bevinden in de maatschappelijke hoek. Ik raak gemotiveerd door de diepgang die deze projecten kunnen behalen. Verder werk ik graag samen met verschillende teams om de verschillende expertises te delen.</p>
