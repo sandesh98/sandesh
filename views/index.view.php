@@ -11,9 +11,9 @@
                             <div class="col-11 col-offset-1">
                                 <h1 class="animatedText" style="margin-bottom: 10px;">Sandesh Boedhoe</h1>
                                 <div class="">
-                                     <p class="subtitle">
-                                         Ik ben Sandesh, 25 jaar oud en studeer Communicatie Multimedia Design aan Hogeschool Rotterdam. Ik zoek een afstudeerbedrijf voor de periode september 2023 - februari 2024.
-                                     </p>
+<!--                                     <p class="subtitle">-->
+                                        <!--Text-->
+<!--                                     </p>-->
                                 </div>
                             </div>
                         </div>
