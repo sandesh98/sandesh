@@ -153,7 +153,7 @@
                     <div class="list-block d-sm-none d-md-none"> <!-- alleen zichtbaar bij groter dan sm sreen -->
                         <h3 class="stripe">Werk</h3>
 
-                        <span class="label">Aug 2023 - Heden</span>
+                        <span class="label">Aug 2023 - Jan 2023</span>
                         <ul class="striped">
                             <li>JEX<br>
                                 UX/UI-Afstudeerstage
