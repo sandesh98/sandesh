@@ -34,70 +34,6 @@
 <div class="container">
     <h1 class="pt-5 pb-3 fw-bold">RS Soundboard</h1>
 
-<!--    <div class="card rounded-4 mb-4">-->
-<!--        <div class="card-body">-->
-<!--            <div class="d-flex align-items-center" style="gap: 24px">-->
-<!--                <div class="px-2">-->
-<!--                    <button onclick="playSound('sound1')" id="sound-button-1">-->
-<!--                        <i class="bi bi-play-fill" id="sound-icon-1" style="font-size: 2.4rem;"></i>-->
-<!--                    </button>-->
-<!--                </div>-->
-<!--                <div>-->
-<!--                    <h4 class="card-title mb-0">Audi RS6 Modded</h4>-->
-<!--                    <div class="card-text">Pops and bangs</div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-
-<!--    <div class="card rounded-4 mb-4">-->
-<!--        <div class="card-body">-->
-<!--            <div class="d-flex align-items-center" style="gap: 24px">-->
-<!--                <div class="px-2">-->
-<!--                    <button onclick="playSound('sound2')" id="sound-button-1">-->
-<!--                        <i class="bi bi-play-fill" id="sound-icon-1" style="font-size: 2.4rem;"></i>-->
-<!--                    </button>-->
-<!--                </div>-->
-<!--                <div>-->
-<!--                    <h4 class="card-title mb-0">Audi RS6 Startup</h4>-->
-<!--                    <div class="card-text">Startup</div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!---->
-<!--    <div class="card rounded-4 mb-4">-->
-<!--        <div class="card-body">-->
-<!--            <div class="d-flex align-items-center" style="gap: 24px">-->
-<!--                <div class="px-2">-->
-<!--                    <button onclick="playSound('sound3')" id="sound-button-1">-->
-<!--                        <i class="bi bi-play-fill" id="sound-icon-1" style="font-size: 2.4rem;"></i>-->
-<!--                    </button>-->
-<!--                </div>-->
-<!--                <div>-->
-<!--                    <h4 class="card-title mb-0">Audi RSQ8</h4>-->
-<!--                    <div class="card-text">Launchcontrol</div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-
-<!--    <div class="card rounded-4 mb-4">-->
-<!--        <div class="card-body">-->
-<!--            <div class="d-flex align-items-center" style="gap: 24px">-->
-<!--                <div class="px-2">-->
-<!--                    <button onclick="playSound('sound1')">-->
-<!--                        <i class="bi bi-play-fill" id="sound1" style="font-size: 2.4rem;"></i>-->
-<!--                    </button>-->
-<!--                </div>-->
-<!--                <div>-->
-<!--                    <h4 class="card-title mb-0">Audi RS6</h4>-->
-<!--                    <div class="card-text">Pops and bangs</div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-
     <div class="card rounded-4 mb-4">
         <div class="card-body">
             <div class="d-flex align-items-center" style="gap: 24px">
@@ -125,6 +61,22 @@
                 <div>
                     <h4 class="card-title mb-0">Audi RSQ8</h4>
                     <div class="card-text">Launchcontrol</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card rounded-4 mb-4">
+        <div class="card-body">
+            <div class="d-flex align-items-center" style="gap: 24px">
+                <div class="px-2">
+                    <button onclick="togglePlayPause(2)">
+                        <i class="bi bi-play-fill" id="sound-icon-2" style="font-size: 2.4rem;"></i>
+                    </button>
+                </div>
+                <div>
+                    <h4 class="card-title mb-0">Audi Themesong</h4>
+                    <div class="card-text">Song</div>
                 </div>
             </div>
         </div>
