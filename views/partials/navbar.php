@@ -16,9 +16,9 @@ $projectPages = ['multipurpose', 'projecten', 'wecollect', 'superspeurders', 'ab
                     <li class="col-1">
                         <a href="/projecten" class="nav-link undefined <?= in_array($activePage, $projectPages) ? 'active' : '' ?>">Projecten</a>
                     </li>
-                    <li class="col-1 col-offset-1">
+                    <!-- <li class="col-1 col-offset-1">
                         <a href="/over-mij" class="nav-link undefined <?= urlIs('/over-mij') ? 'active' : '' ?>">Over mij</a>
-                    </li>
+                    </li> -->
                     <li class="col-1 col-offset-1">
                         <a href="/contact" class="nav-link undefined <?= urlIs('/contact') ? 'active' : '' ?>">Contact</a>
                     </li>

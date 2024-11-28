@@ -52,6 +52,13 @@
                     <div class="list-block d-none d-sm-block d-md-block"> <!-- alleen zichtbaar bij sm sreen -->
                         <h3 class="stripe">Werk</h3>
 
+                        <span class="label">Mrt 2024 - Heden</span>
+                        <ul class="striped">
+                            <li>JEX<br>
+                                UX/UI-Afstudeerstage
+                            </li>
+                        </ul>
+
                         <span class="label">Aug 2023 - Jan 2024</span>
                         <ul class="striped">
                             <li>JEX<br>
@@ -110,6 +117,13 @@
                 <div class="col-2">
                     <div class="list-block d-sm-none d-md-none"> <!-- alleen zichtbaar bij groter dan sm sreen -->
                         <h3 class="stripe">Werk</h3>
+
+                        <span class="label">Mrt 2023 - Heden</span>
+                        <ul class="striped">
+                            <li>JEX<br>
+                                UX/UI-Afstudeerstage
+                            </li>
+                        </ul>
 
                         <span class="label">Aug 2023 - Jan 2024</span>
                         <ul class="striped">
