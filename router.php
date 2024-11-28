@@ -20,6 +20,7 @@ $routes = [
     '/bubba' => 'controllers/bubba.php',
     '/multipurpose' => 'controllers/multipurpose.php',
     '/globetrotters' => 'controllers/globetrotters.php',
+    '/customerjourney' => 'controllers/uren-customerjourney.php',
     '/rs' => 'controllers/rs.php'
 ];
 

@@ -45,12 +45,12 @@
                 </a> -->
             
                 <!-- Project -->
-                <a href="/wecollect" class="school grid-item col-8">
+                <a href="/customerjourney" class="school grid-item col-8">
                     <div class="thumb">
-                        <img src="../resources/images/project/wecollect/project-image.jpg">
+                        <img src="../resources/images/project/urencustomerjourney/project-image.jpg">
                     </div>
                     <div class="caption">
-                        <div class="title">JEX - UX-Research</div>
+                        <div class="title">JEX - Uren Customer Journey</div>
                         <div class="subtitle">Prototype</div>
                     </div>
                 </a>
