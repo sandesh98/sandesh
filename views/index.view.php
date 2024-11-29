@@ -8,11 +8,8 @@
                 <div class="vcenter">
                     <div class="container">
                         <div class="grid">
-                            <div class="col-11 col-offset-1">
+                            <div class="col-10">
                                 <h1 class="animatedText" style="margin-bottom: 10px;">Sandesh Boedhoe</h1>
-                                <div class="">
-                                    
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -86,18 +83,37 @@
                         </ul>
                     </div>
 
+
+                    <div class="list-block">
+                        <h3 class="stripe">Educatie</h3>
+                        <span class="label">Hogeschool Rotterdam</span>
+                        <ul class="striped">
+                            <li>
+                                Communicatie Multimedia Design <br>
+                                2019 - 2024
+                            </li>
+                        </ul>
+
+                        <span class="label">Techniek College Rotterdam</span>
+                        <ul class="striped">
+                            <li>
+                                Applicatie en Mediaontwikkelaar <br>
+                                2015 - 2018
+                            </li>
+                        </ul>
+                    </div>
+
                     <div class="list-block">
                         <h3 class="stripe">Designing</h3>
                         <ul class="striped">
-                            <span class="label">Mijn specialisatie</span>
+                            <span class="label">Specialisatie in</span>
                             <li>User Experience Design</li>
-                            <li>User Interface Design</li>
                             <div class="mt-20">
-                                <span class="label">Programma's</span>
-                                <li>Figma</li>
-                                <li>Teams</li>
-                                <li>Adobe Photoshop</li>
-                                <li>Adobe Illustrator</li>
+                                <span class="label">Een passie voor</span>
+                                <li>User Research</li>
+                                <li>User Interface Design</li>
+                                <li>Artificial Intelligence</li>
+                                <li>Webdevelopment</li>
                             </div>
                         </ul>
                     </div>
@@ -105,17 +121,11 @@
                     <div class="list-block">
                         <h3 class="stripe">Coding</h3>
                         <ul class="striped">
-                            <span class="label">Comfortabel met</span>
                             <li>Laravel</li>
-                            <li>PHP</li>
                             <li>MySQL</li>
                             <li>HTML</li>
-                            <li>CSS</li>
-                            <li>Javascript</li>
-                            <div class="mt-20">
-                                <span class="label">In aanraking gekomen met</span>
-                                <li>Flutter</li>
-                            </div>
+                            <li>Bootstrap CSS</li>
+                            <li>Tailwind</li>
                         </ul>
                     </div>
 

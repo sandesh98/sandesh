@@ -21,6 +21,7 @@ $routes = [
     '/multipurpose' => 'controllers/multipurpose.php',
     '/globetrotters' => 'controllers/globetrotters.php',
     '/customerjourney' => 'controllers/uren-customerjourney.php',
+    '/opdrachtgeversportaal' => 'controllers/opdrachtgeversportaal.php',
     '/rs' => 'controllers/rs.php'
 ];
 
