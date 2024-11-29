@@ -26,8 +26,7 @@
             </div>
             <div class="grid content">
                 <div class="col-offset-1 col-3">
-                    <p>Urenregistratie is een complexe taak voor uitzendbureaus door de afhankelijkheid van opdrachtgevers en hun specifieke wensen. Met behulp van een Customer Journey heb ik een informatieve UX-deliverable gecreëerd waarin de werkwijze stapsgewijs is gevisualiseerd.
-                    </p>
+                    <p>Om de wisselwerking tussen opdrachtgevers en uitzendbureaus te bevorderen, hebben mijn team en ik een oplossing ontworpen, namelijk het opdrachtgeversportaal.</p>
                 </div>
                 <div class="col-offset-1 col-1">
                     <div class="project-data">
