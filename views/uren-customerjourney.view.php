@@ -3,7 +3,7 @@
 <div id="inner">
     <section class="nmb behind-header">
         <div class="hero">
-            <div style="background-image: url('../resources/images/project/globetrotters/preview.png');"
+            <div style="background-image: url('../resources/images/project/urencustomerjourney/preview.png');"
                  class="bg faded"></div>
             <div class="vcenter">
                 <div class="container mb-xl">
@@ -27,9 +27,8 @@
             </div>
             <div class="grid content">
                 <div class="col-offset-1 col-3">
-                    <p>Tijdens de Minor Interface & User Experience Design hebben mijn team en ik een interactieve
-                        augmented applicatie bedacht en gerealiseerd. De app zorgt ervoor dat kinderen tussen de 6 en 10
-                        jaar de lesstof wereldoriëntatie langer onthouden.</p>
+                    <p>Urenregistratie is een complexe taak voor uitzendbureaus door de afhankelijkheid van opdrachtgevers en hun specifieke wensen. Met behulp van een Customer Journey heb ik een informatieve UX-deliverable gecreëerd waarin de werkwijze stapsgewijs is gevisualiseerd.
+                    </p>
                 </div>
                 <div class="col-offset-1 col-1">
                     <div class="project-data">
@@ -37,8 +36,8 @@
                         <div class="desc">JEX</div>
                     </div>
                     <div class="project-data">
-                        <div class="title">Type</div>
-                        <div class="desc">Customer  Journey</div>
+                        <div class="title">Deliverable</div>
+                        <div class="desc">Customer Journey</div>
                     </div>
                 </div>
                 <div class="col-1">
@@ -47,7 +46,7 @@
                         <div class="desc">2024</div>
                     </div>
                     <div class="project-data">
-                        <div class="title">Soort</div>
+                        <div class="title">Onderwerp</div>
                         <div class="desc">Uren registratie uitzendbureaus</div>
                     </div>
                 </div>
@@ -59,149 +58,68 @@
             <div class="col-offset-1 col-6">
                 <div class="mb-xl">
                     <h2>Aanleiding</h2>
-                    <p>Tijdens de minor hebben mijn team en ik een augmented reality applicatie bedacht en gerealiseerd
-                        voor kinderen tussen 6 en 10 jaar zodat zij de wereldoriëntatie lesstof langer blijven
-                        onthouden. </p>
-                    <p>Tijdens ons onderzoek hebben we verschillende basisschooldocenten gesproken en creatieve sessies
-                        met hen gehouden. Tijdens deze sessies hebben wij kunnen concluderen dat het inzetten van AR het
-                        best tot zijn recht komt bij de lessen wereldoriëntatie en dat de technologie ervoor zal zorgen
-                        dat de lesstof langer blijft hangen. De ontwerpvraag die vanuit hier ontstaan is luidt:</p>
-                    <i class="text-muted">“Hoe kunnen we door middel van AR, de wereldoriëntatielessen interactiever en
-                        persoonlijker maken, zodat kinderen tussen de 6 en 10 de lesstof langer onthouden/bewuster
-                        herinneren?”</i>
+                    <p>Urenregistratie is een complexe taak voor uitzendbureaus vanwege de afhankelijkheid van opdrachtgevers en hun specifieke wensen. Als uitzendbureau is het namelijk essentieel om relaties met opdrachtgevers te behouden. Dat doen uitzendbureaus door regelmatig langs te gaan maar maar ook door de juiste tools aan opdrachtgevers aan te bieden om de wisselwerking zo efficient en intuitief mogelijk te laten verlopen. Als de tool niet goed werkt kan een opdrachtgever zo een andere uitzendbureau kiezen om samen te werken.</p>
+                    <p>Daarom vond ik het essentieel om de werkwijze zelf goed te begrijpen, zodat ik deze kennis kon overbrengen aan het team. Dit stelde hen in staat om met de juiste inzichten aan de slag te gaan en een passende oplossing te bedenken voor de urenregistratie.</p>
+                    <p>Om dit beter te begrijpen, heb ik interviews gevoerd met medewerkers van diverse uitzendbureaus en bestaande inzichten uit Condens geanalyseerd. Deze informatie heb ik samengebracht in een customer journey. Tijdens mijn onderzoek heb ik ontdekt dat er drie manieren zijn waarop uitzendbureaus uren ontvangen en verwerken. Zo kunnen de uren worden aangeleverd door de uitzendkrachten zelf, maar ook door de opdrachtgever, afhankelijk van de gemaakte afspraken.</p>
                 </div>
             </div>
 
 
             <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vertical-center hidden-xs">
-                    <img src="../resources/images/project/globetrotters/feature-1.png" class="image-fluid">
+                    <img src="../resources/images/project/urencustomerjourney/asset-1.png" class="image-fluid">
                 </div>
 
                 <div class="col-3 vertical-center">
                     <div>
-                        <h3 class="image-title">Een wereld in AR</h3>
-                        <p>Met het gebruik van Augmented reality willen we de werelden waar kinderen over leren echt tot
-                            leven laten komen. Dit zorgt voor meer inlevingsvermogen bij de kinderen en maakt de les
-                            tevens interactiever en memorabeler.</p>
+                        <h3 class="image-title">Opstellen van een plan</h3>
+                        <p>Allereerst heb ik het doel van het onderzoek vastgesteld: inzicht krijgen in het urenregistratieproces van uitzendbureaus en dit visualiseren in een Customer Journey die gedeeld kan worden met de designteams.</p>
+                        <p>Op basis van dit doel heb ik interviewvragen opgesteld. Met behulp van ChatGPT heb ik een eerste solide set vragen gegenereerd, die ik daarna zelf verder heb verfijnd. Het testplan heb ik vervolgens in Condens geplaatst en gedeeld met de designteams voor feedback.</p>
                     </div>
                 </div>
 
                 <div class="col-offset-1 col-3 vertical-center hidden-lg hidden-md hidden-sm">
-                    <img src="../resources/images/project/globetrotters/feature-1.png" class="image-fluid">
+                    <img src="../resources/images/project/urencustomerjourney/asset-1.png" class="image-fluid">
                 </div>
             </div>
 
             <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vertical-center">
                     <div>
-                        <h3 class="image-title">Zoeken naar artefacten</h3>
-                        <p>Kinderen gaan gezamenlijk opzoek naar artefacten waarna zij hier meer informatie over
-                            krijgen. Vervolgens krijgen zij een vraag om te controleren of de stof goed begrepen is.
-                            Hierbij is het de bedoeling om alle artefacten te verzamelen die verborgen zitten in de
-                            map.</p>
+                        <h3 class="image-title">Inzichten verzamelen en verbinden</h3>
+                        <p>Na het afnemen van verschillende interviews heb ik deze in Condens geplaatst en geanalyseerd op basis van de vragen uit het testplan. Daarnaast heb ik bestaande interviews gebruikt als extra bron voor aanvullende inzichten. Alle verzamelde inzichten heb ik verwerkt in een artefact, waarna ik samen met de designers heb gebrainstormd over manieren om deze visueel in kaart te brengen.</p>
                     </div>
                 </div>
                 <div class="col-3 vertical-center">
-                    <img src="../resources/images/project/globetrotters/feature-2.png" class="image-fluid">
-                </div>
-            </div>
-
-            <section class="mb-lg">
-                <div class="container">
-                    <div class="grid content">
-                        <div id="img-carousel" class="titanSlider">
-                            <ul class="slides">
-                                <li class="slide"><img
-                                            src="../resources/images/project/globetrotters/carousel/carousel-1.jpg"
-                                            class="fw"></li>
-                                <li class="slide"><img
-                                            src="../resources/images/project/globetrotters/carousel/carousel-2.jpg"
-                                            class="fw"></li>
-                                <li class="slide"><img
-                                            src="../resources/images/project/globetrotters/carousel/carousel-3.jpg"
-                                            class="fw"></li>
-                                <li class="slide"><img
-                                            src="../resources/images/project/globetrotters/carousel/carousel-4.jpg"
-                                            class="fw"></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <div class="grid mb-lg">
-                <div class="col-offset-1 col-3 vertical-center hidden-xs">
-                    <img src="../resources/images/project/globetrotters/feature-3.png" class="image-fluid">
-                </div>
-
-                <div class="col-3 vertical-center">
-                    <div>
-                        <h3 class="image-title">Werken in tweetallen</h3>
-                        <p>Uit ons onderzoek bleek dat het stimulerend is voor kinderen om samen te werken. Hierbij
-                            kunnen ze elkaar ondersteunen en van elkaar leren. Om deze reden hebben wij dit in ons
-                            concept verwerkt. Het spel genereert van te voren tweetallen die de leraar eventueel nog kan
-                            aanpassen indien dat gewenst is.</p>
-                    </div>
-                </div>
-
-                <div class="col-offset-1 col-3 vertical-center hidden-lg hidden-md hidden-sm">
-                    <img src="../resources/images/project/globetrotters/feature-3.png" class="image-fluid">
-                </div>
-            </div>
-
-            <div class="grid mb-lg">
-                <div class="col-offset-1 col-3 vertical-center">
-                    <div>
-                        <h3 class="image-title">Elkaar helpen</h3>
-                        <p>Sommige leerlingen zijn sneller klaar dan anderen. Om deze reden hebben wij een optie
-                            toegevoegd waarbij leerlingen die eerder klaar zijn anderen kunnen helpen. Zo krijgen de
-                            leerlingen die wat langzamer zin extra ondersteuning en wordt de werkdruk van de leraar
-                            verlicht. Ook worden de leerlingen die anderen helpen extra beloond.</p>
-                    </div>
-                </div>
-                <div class="col-3 vertical-center">
-                    <img src="../resources/images/project/globetrotters/feature-4.png" class="image-fluid">
+                    <img src="../resources/images/project/urencustomerjourney/asset-2.png" class="image-fluid">
                 </div>
             </div>
 
             <div class="grid mb-lg">
                 <div class="col-offset-1 col-3 vertical-center hidden-xs">
-                    <img src="../resources/images/project/globetrotters/one-pager.png" class="image-fluid">
+                    <img src="../resources/images/project/urencustomerjourney/asset-3.png" class="image-fluid">
                 </div>
 
                 <div class="col-3 vertical-center">
                     <div>
-                        <h3 class="image-title">One Pager</h3>
-                        <p>Aanvullend hebben we een one page website moeten opzetten waarin wij ons product presenteren.
-                            De designers binnen het team zijn aan de slag gegaan met het ontwerp en ik heb vervolgens de
-                            website ontwikkelt met Bootstrap 5.</p>
-                        <div class="pt-10">
-                            <a type="button" target="_blank" href="https://inyourfaceinterface.nl/"
-                               class="btn-see-project">Bekijk</a>
-                        </div>
+                        <h3 class="image-title">Customer Journey opzetten en delen</h3>
+                        <p>De uiteindelijke weergave van de urenregistratiewerkwijze is vormgegeven in een Customer Journey waarin drie verschillende werkwijzen zijn uitgewerkt. Elke werkwijze heeft specifieke voor- en nadelen en nuances in hoe de uren worden aangeleverd en verwerkt:</p>
+                        <ol>
+                            <li class="text-muted"><b>Urenregistratie via de JEX Employee Self Service app.</b> De uitzendkracht registreert zelf de uren, stuurt deze ter controle naar de opdrachtgever, waarna ze worden doorgestuurd naar het uitzendbureau.</li>
+                            <li class="text-muted"><b>Urenregistratie met een fysiek urenbriefje.</b> De uitzendkracht laat het briefje ondertekenen door de opdrachtgever en stuurt het vervolgens door naar het uitzendbureau.</li>
+                            <li class="text-muted"><b>Urenregistratie door de opdrachtgever.</b> De opdrachtgever registreert de uren van de uitzendkracht en stuurt een overzicht naar het uitzendbureau. Er vindt geen aanvullende controle plaats, omdat de opdrachtgever zelf de uren aanlevert.</li>
+                        </ol>
                     </div>
                 </div>
 
                 <div class="col-offset-1 col-3 vertical-center hidden-lg hidden-md hidden-sm">
-                    <img src="../resources/images/project/globetrotters/one-pager.png" class="image-fluid">
+                    <img src="../resources/images/project/urencustomerjourney/asset-3.png" class="image-fluid">
                 </div>
             </div>
 
 
             <div class="grid">
                 <div class="col-6 col-offset-1">
-                    <div class="body mb-lg">
-                        <p><b>Mijn rol</b><br>
-                            Tijdens de Minor ben ik als Creative Technologist & Prototyper aan de slag gegaan. Ik heb
-                            nieuwe technologieën ontdekt en ik heb mij verdiept in het maken van een spel in AR. Ik was
-                            al bekend met de term augmented reality maar vanwege de steile learning curve nooit iets
-                            meegedaan, laat staan een volledig spel ontwikkelen. De verantwoordelijkheid voor het
-                            ontwikkelen van een digitaal product lag vanwege mijn rol bij mij. Gelukkig heb ik veel tips
-                            van mijn peers gekregen om geleidelijk het AR gebied te verkennen. Tijdens de minor heb ik
-                            mijzelf overtroffen door de realisatie van het spel.
-                        </p>
-                    </div>
                     <ul class="accordion">
                         <li class="active">
                             <div class="head">
@@ -211,21 +129,8 @@
                                 <div class="grid">
                                     <div class="col-2"><span class="label">Design Programma's</span>
                                         <ul class="striped inside">
-                                            <li>Adobe Illustrator</li>
-                                            <li>Adobe Indesign</li>
-                                            <li>Adobe Photoshop</li>
-                                            <li>Adobe Premiere Pro</li>
-                                            <li>Apple Keynote</li>
                                             <li>Figma</li>
-                                            <li>Miro</li>
-                                            <li>Canva</li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-2"><span class="label">AR Programma's</span>
-                                        <ul class="striped inside">
-                                            <li>CoSpaces</li>
-                                            <li>Blender</li>
-                                            <li>VSCode</li>
+                                            <li>Condens</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -238,41 +143,9 @@
                             </div>
                             <div class="body">
                                 <div class="grid">
-                                    <div class="col-2"><span class="label">Discover</span>
+                                    <div class="col-2"><span class="label">Methodes</span>
                                         <ul class="striped inside">
-                                            <li>SWOT-analyse</li>
-                                            <li>Desk research</li>
-                                            <li>Expert interview</li>
-                                            <li>Interview met doelgroep</li>
-                                            <li>Interview met stakeholders</li>
-                                            <li>Ontwerprichtlijnen</li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="col-2"><span class="label">Ideate</span>
-                                        <ul class="striped inside">
-                                            <li>Disney Methode</li>
-                                            <li>Reframing the problem</li>
-                                            <li>Conceptkaarten</li>
-                                            <li>Conceptkaarten</li>
-                                            <li>AR VS VR benchmark</li>
-                                            <li>Minimum Viable Product</li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="col-2"><span class="label">Design</span>
-                                        <ul class="striped inside">
-                                            <li>Concept test</li>
-                                            <li>Moodboard</li>
-                                            <li>Starburst</li>
-                                        </ul>
-                                    </div>
-
-                                    <div class="col-2"><span class="label">Deliver</span>
-                                        <ul class="striped inside">
-                                            <li>Customer Journey</li>
-                                            <li>User Stories</li>
-                                            <li>User Story Map</li>
+                                            <li>Semi-gestructureerde interviews</li>
                                         </ul>
                                     </div>
                                 </div>
