@@ -124,7 +124,7 @@
                             <li>Laravel</li>
                             <li>MySQL</li>
                             <li>HTML</li>
-                            <li>Bootstrap CSS</li>
+                            <li>Bootstrap</li>
                             <li>Tailwind</li>
                         </ul>
                     </div>
