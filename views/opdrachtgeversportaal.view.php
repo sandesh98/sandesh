@@ -3,7 +3,7 @@
 <div id="inner">
     <section class="nmb behind-header">
         <div class="hero">
-            <div style="background-image: url('../resources/images/project/urencustomerjourney/preview.png');" class="bg faded"></div>
+            <div style="background-image: url('../resources/images/project/opdrachtgeversportaal/preview.png');" class="bg faded"></div>
             <div class="vcenter">
                 <div class="container mb-xl">
                     <div class="grid">

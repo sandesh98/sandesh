@@ -12,8 +12,8 @@
                     <nav id="filters">
                         <ul class="filters">
                             <li><a href="#" data-filter="grid-item" class="active filter">Alles</a></li>
-                            <li><a href="#" data-filter="websites" class="filter">Websites</a></li>
-                            <li><a href="#" data-filter="school" class="filter">Schoolprojecten</a></li>
+                            <li><a href="#" data-filter="werk" class="filter">Werk</a></li>
+                            <li><a href="#" data-filter="school" class="filter">School</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -29,7 +29,18 @@
                     </div>
                     <div class="caption">
                         <div class="title">Schoolproject - Globetrotters</div>
-                        <div class="subtitle">Website</div>
+                        <div class="subtitle">Game</div>
+                    </div>
+                </a>
+
+                <!-- Project -->
+                <a href="/opdrachtgeversportaal" class="werk grid-item col-8">
+                    <div class="thumb">
+                        <img src="../resources/images/project/opdrachtgeversportaal/project-image.jpg">
+                    </div>
+                    <div class="caption">
+                        <div class="title">JEX - Opdrachtgeversportaal</div>
+                        <div class="subtitle">Prototype</div>
                     </div>
                 </a>
 
@@ -45,7 +56,7 @@
                 </a> -->
             
                 <!-- Project -->
-                <a href="/customerjourney" class="school grid-item col-8">
+                <a href="/customerjourney" class="werk grid-item col-8">
                     <div class="thumb">
                         <img src="../resources/images/project/urencustomerjourney/project-image.jpg">
                     </div>
