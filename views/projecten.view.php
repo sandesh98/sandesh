@@ -23,17 +23,6 @@
             <div id="project-grid" class="masonry-grid">
 
                 <!-- Project -->
-                <a href="/globetrotters" class="school grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/globetrotters/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Schoolproject - Globetrotters</div>
-                        <div class="subtitle">Game</div>
-                    </div>
-                </a>
-
-                <!-- Project -->
                 <a href="/opdrachtgeversportaal" class="werk grid-item col-8">
                     <div class="thumb">
                         <img src="../resources/images/project/opdrachtgeversportaal/project-image.jpg">
@@ -43,17 +32,6 @@
                         <div class="subtitle">Prototype</div>
                     </div>
                 </a>
-
-                <!-- Project -->
-                <!-- <a href="/multipurpose" class="school grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/multipurpose/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Schoolproject - Multipurpose</div>
-                        <div class="subtitle">Website</div>
-                    </div>
-                </a> -->
             
                 <!-- Project -->
                 <a href="/customerjourney" class="werk grid-item col-8">
@@ -67,6 +45,17 @@
                 </a>
 
                 <!-- Project -->
+                <a href="/globetrotters" class="school grid-item col-8">
+                    <div class="thumb">
+                        <img src="../resources/images/project/globetrotters/project-image.jpg">
+                    </div>
+                    <div class="caption">
+                        <div class="title">Schoolproject - Globetrotters</div>
+                        <div class="subtitle">Game</div>
+                    </div>
+                </a>
+
+                <!-- Project -->
                 <a href="/wecollect" class="school grid-item col-8">
                     <div class="thumb">
                         <img src="../resources/images/project/wecollect/project-image.jpg">
@@ -76,94 +65,6 @@
                         <div class="subtitle">Prototype</div>
                     </div>
                 </a>
-
-                <!-- Project -->
-                <!-- <a href="/superspeurders" class="school grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/superspeurders/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Schoolproject - Superspeurders</div>
-                        <div class="subtitle">Prototype</div>
-                    </div>
-                </a> -->
-
-                <!-- Project -->
-                <!-- <a href="/abc-hulplijn" class="school grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/abchulplijn/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Schoolproject - ABC-Hulplijn</div>
-                        <div class="subtitle">Prototype</div>
-                    </div>
-                </a> -->
-
-                <!-- Project -->
-                <!-- <a href="/pscateringservices" class="websites grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/pscateringservices/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">P.S. CateringServices</div>
-                        <div class="subtitle">Website</div>
-                    </div>
-                </a> -->
-
-                <!-- Project -->
-                <!-- <a href="/sportmaatje" class="school grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/sportmaatje/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Schoolproject - Sportmaatje</div>
-                        <div class="subtitle">Prototype</div>
-                    </div>
-                </a> -->
-
-                <!-- Project -->
-                <!-- <a href="/de-cafe-koers" class="school grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/decafekoers/project-image.png">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Schoolproject - De Café Koers</div>
-                        <div class="subtitle">Prototype</div>
-                    </div>
-                </a> -->
-
-                <!-- Project -->
-                <!-- <a href="/guess-and-win" class="websites grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/guessandwin/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Schoolproject - Guess and Win</div>
-                        <div class="subtitle">Website + bordspel</div>
-                    </div>
-                </a> -->
-
-                <!-- Project -->
-                <!-- <a href="/natraj-flyer" class="school grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/natrajflyer/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Dansacademie Natraj</div>
-                        <div class="subtitle">Flyer</div>
-                    </div>
-                </a> -->
-
-                <!-- Project -->
-                <!-- <a href="/dutchdiner" class="grid-item col-8">
-                    <div class="thumb">
-                        <img src="../resources/images/project/dutchdiner/project-image.jpg">
-                    </div>
-                    <div class="caption">
-                        <div class="title">Dutch Diner</div>
-                        <div class="subtitle">Website</div>
-                    </div>
-                </a> -->
 
             </div>
         </div>
