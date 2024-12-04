@@ -61,6 +61,9 @@
                     <p>Urenregistratie is een complexe taak voor uitzendbureaus vanwege de afhankelijkheid van opdrachtgevers en hun specifieke wensen. Als uitzendbureau is het namelijk essentieel om relaties met opdrachtgevers te behouden. Dat doen uitzendbureaus door regelmatig langs te gaan maar maar ook door de juiste tools aan opdrachtgevers aan te bieden om de wisselwerking zo efficient en intuitief mogelijk te laten verlopen. Als de tool niet goed werkt kan een opdrachtgever zo een andere uitzendbureau kiezen om samen te werken.</p>
                     <p>Daarom vond ik het essentieel om de werkwijze zelf goed te begrijpen, zodat ik deze kennis kon overbrengen aan het team. Dit stelde hen in staat om met de juiste inzichten aan de slag te gaan en een passende oplossing te bedenken voor de urenregistratie.</p>
                     <p>Om dit beter te begrijpen, heb ik interviews gevoerd met medewerkers van diverse uitzendbureaus en bestaande inzichten uit Condens geanalyseerd. Deze informatie heb ik samengebracht in een customer journey. Tijdens mijn onderzoek heb ik ontdekt dat er drie manieren zijn waarop uitzendbureaus uren ontvangen en verwerken. Zo kunnen de uren worden aangeleverd door de uitzendkrachten zelf, maar ook door de opdrachtgever, afhankelijk van de gemaakte afspraken.</p>
+
+                    <h2>Mijn rol</h2>
+                    <p>In mijn rol als UX-researcher heb ik me gericht op het verzamelen en verbinden van informatie zonder vanuit het perspectief van JEX te kijken. Ik heb bewust gefocust op het begrijpen van de werkwijze van medewerkers van uitzendbureaus, zonder meteen te zoeken naar oplossingen die vooral in het voordeel van JEX zouden zijn. Deze aanpak heeft me geholpen om frisse en waardevolle inzichten te krijgen.</p>
                 </div>
             </div>
 

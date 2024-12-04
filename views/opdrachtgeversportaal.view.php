@@ -59,7 +59,7 @@
                     <p>Het opdrachtgeversportaal is speciaal ontworpen om de wisselwerking tussen opdrachtgevers en uitzendbureaus te verbeteren. Via het portaal kan de opdrachtgever diverse gebruikelijke taken uitvoeren, zoals het accorderen van uren van uitzendkrachten, het indienen van aanvragen en het ondertekenen van documenten en contracten.</p>
                     <h2>Welk probleem lost de opdrachtgeversportaal op?</h2>
                     <p>In de huidige situatie verloopt de dataoverdracht tussen opdrachtgevers en uitzendbureaus via verschillende kanalen, zoals e-mail, WhatsApp, telefoongesprekken en papieren documenten. Dit verhoogt de kans op fouten, bijvoorbeeld doordat afspraken vergeten kunnen worden door het ontbreken van een gecentraliseerde plek waar alle informatie wordt vastgelegd.</p>
-                    <h2>Opdrachtgevers onboarden</h2>
+                    <h2>Mijn rol</h2>
                     <p>Een van de opdrachten binnen het opdrachtgeversportaal die ik graag wil toelichten, is de onboarding. Ik was verantwoordelijk voor het bedenken van de flow en het ontwerpen van de schermen voor dit proces. De onboarding bestaat uit drie stappen, die hieronder worden toegelicht.</p>
                     <p>Bij het ontwerpen had ik het volgende doel voor ogen:</p>
                     <i class="text-muted">“De opdrachtgever stapsgewijs meenemen in de onboarding zodat zij na het afronden direct gebruik kunnen maken van het portaal zonder achteraf nog data te hoeven opvoeren.”</i>
@@ -74,8 +74,8 @@
                 <div class="col-3 vertical-center">
                     <div>
                         <h3 class="image-title">Uitnodiging versturen</h3>
-                        <p>Allereerst heb ik het doel van het onderzoek vastgesteld: inzicht krijgen in het urenregistratieproces van uitzendbureaus en dit visualiseren in een Customer Journey die gedeeld kan worden met de designteams.</p>
-                        <p>Op basis van dit doel heb ik interviewvragen opgesteld. Met behulp van ChatGPT heb ik een eerste solide set vragen gegenereerd, die ik daarna zelf verder heb verfijnd. Het testplan heb ik vervolgens in Condens geplaatst en gedeeld met de designteams voor feedback.</p>
+                        <p>Het uitzendbureau verstuurt handmatig een uitnodiging naar de opdrachtgever voor het portaal vanuit de OSS. Ik heb eerst de verschillende scenario’s in kaart gebracht, zoals: uitnodiging verstuurd, verlopen, geactiveerd of niet verstuurd door ontbrekende basisinformatie. Vervolgens heb ik met behulp van een flowchart inzichtelijk gemaakt wat de redenen kunnen zijn waarom een uitnodiging niet verstuurd kan worden en hoe de gebruiker deze problemen kan oplossen.</p>
+                        <p>Aan de hand van de flowchart en de scenario’s ben ik verder gegaan met het ontwerpen van een gebruiksvriendelijke oplossing voor het versturen van uitnodigingen via de OSS.</p>
                     </div>
                 </div>
 
@@ -88,7 +88,8 @@
                 <div class="col-offset-1 col-3 vertical-center">
                     <div>
                         <h3 class="image-title">Uitnodigingsmail ontvangen</h3>
-                        <p>Na het afnemen van verschillende interviews heb ik deze in Condens geplaatst en geanalyseerd op basis van de vragen uit het testplan. Daarnaast heb ik bestaande interviews gebruikt als extra bron voor aanvullende inzichten. Alle verzamelde inzichten heb ik verwerkt in een artefact, waarna ik samen met de designers heb gebrainstormd over manieren om deze visueel in kaart te brengen.</p>
+                        <p>De contactpersoon van de opdrachtgever ontvangt een uitnodigingsmail voor het opdrachtgeversportaal. Deze mail heb ik ontworpen op basis van het JEX Design System. Met behulp van AI heb ik een eerste versie van de tekst opgesteld, die ik vervolgens samen met een UX-writer heb verfijnd tot de definitieve versie.</p>
+                        <p>De grootste uitdaging was ervoor te zorgen dat de opdrachtgever niet alleen kennismaakt met het uitzendbureau, maar tegelijkertijd op een subtiele manier ook met JEX wordt geïntroduceerd.</p>
                     </div>
                 </div>
                 <div class="col-3 vertical-center">
@@ -104,12 +105,8 @@
                 <div class="col-3 vertical-center">
                     <div>
                         <h3 class="image-title">Onboarding starten</h3>
-                        <p>De uiteindelijke weergave van de urenregistratiewerkwijze is vormgegeven in een Customer Journey waarin drie verschillende werkwijzen zijn uitgewerkt. Elke werkwijze heeft specifieke voor- en nadelen en nuances in hoe de uren worden aangeleverd en verwerkt:</p>
-                        <ol>
-                            <li class="text-muted"><b>Urenregistratie via de JEX Employee Self Service app.</b> De uitzendkracht registreert zelf de uren, stuurt deze ter controle naar de opdrachtgever, waarna ze worden doorgestuurd naar het uitzendbureau.</li>
-                            <li class="text-muted"><b>Urenregistratie met een fysiek urenbriefje.</b> De uitzendkracht laat het briefje ondertekenen door de opdrachtgever en stuurt het vervolgens door naar het uitzendbureau.</li>
-                            <li class="text-muted"><b>Urenregistratie door de opdrachtgever.</b> De opdrachtgever registreert de uren van de uitzendkracht en stuurt een overzicht naar het uitzendbureau. Er vindt geen aanvullende controle plaats, omdat de opdrachtgever zelf de uren aanlevert.</li>
-                        </ol>
+                        <p>
+                        Nadat de gebruiker de uitnodigingsmail heeft ontvangen en naar het portaal gaat, start de onboarding. Deze begint met het aanmaken van een wachtwoord, gevolgd door het controleren van de bedrijfsinformatie, zoals het KVK-nummer en het geregistreerde adres. In de volgende stap kan de gebruiker aanvullende gegevens invoeren, zoals het postadres en bezoekadres.</p>
                     </div>
                 </div>
 
@@ -122,7 +119,8 @@
                 <div class="col-offset-1 col-3 vertical-center">
                     <div>
                         <h3 class="image-title">Onboarding afronden</h3>
-                        <p>Na het afnemen van verschillende interviews heb ik deze in Condens geplaatst en geanalyseerd op basis van de vragen uit het testplan. Daarnaast heb ik bestaande interviews gebruikt als extra bron voor aanvullende inzichten. Alle verzamelde inzichten heb ik verwerkt in een artefact, waarna ik samen met de designers heb gebrainstormd over manieren om deze visueel in kaart te brengen.</p>
+                        <p>In de laatste stap van de onboarding kan de gebruiker optioneel de facturatiegegevens invoeren, omdat de contactpersoon van de opdrachtgever hier vaak geen directe toegang toe heeft. Als de informatie wel beschikbaar is, kan deze in het laatste scherm worden toegevoegd.</p>
+                        <p>Om het invoeren van het facturatieadres makkelijker te maken, heb ik nieuwe patronen verkend. De gebruiker kan eerder opgeslagen adressen selecteren of een nieuw adres invoeren als het facturatieadres hiervan afwijkt. Deze aanpak biedt zowel gemak als flexibiliteit.</p>
                     </div>
                 </div>
                 <div class="col-3 vertical-center">
