@@ -24,7 +24,12 @@
                 <div class="col-3">
                     <div class="content-block">
                         <h2>Hi, mijn naam is Sandesh</h2>
-                        <p>Ik ben 26 jaar oud en woon in Spijkenisse. In mijn vrije tijd pool ik graag. Mijn eigenschap is dat ik er niet van hou om stil te zitten. Ik probeer altijd bezig te zijn met een project of informatie op te doen om het optimale uit mijzelf te halen.</p>
+                        <p>Ik ben een UX-designer die graag werkt aan grote, complexe softwaresystemen, waarbij ik rekening houd met de volledige context. Niet alleen de gebruiker staat centraal, maar ook de technische mogelijkheden en beperkingen spelen een belangrijke rol.</p>
+                        <p>Experimenteren met AI is iets waar ik veel plezier en inspiratie uit haal. Ik gebruik AI in mijn werk voor diverse toepassingen, zoals UX-writing, het opstellen van interviewvragen, het verkennen van verschillende onderzoeksrichtingen en het maken van flowcharts. Daarnaast deel ik mijn kennis en experimenten graag met mijn team, bijvoorbeeld via presentaties en live demo's. Hiermee hoop ik mijn collega's te inspireren en aan te moedigen om AI ook in hun eigen workflows te gebruiken.</p>
+
+                        <h3>Samenwerkingen</h3>
+                        <p>Ik ben gestart als UX Researcher, samen met twee collega’s, om vooronderzoeken uit te voeren voor andere teams. Door middel van fysieke en digitale interviews met uitzendkrachten en uitzendbureaus hebben we waardevolle inzichten verzameld over nieuwe thema’s die als startpunt dienen voor verdere ontwikkeling binnen andere teams.</p>
+                        <p>In mijn rol als UX Designer heb ik gewerkt in een multidisciplinair team met een Scrum Master, Business Analist, Product Owner, UX-Designers, Developers en een Tester. Ik ondersteun bij het opstellen van Product Backlog Items en Business Rules en werk deze uit in designs.</p>
                         <a href="https://www.linkedin.com/in/sandesh98/" target="_blank"><i class="fa fa-linkedin fa-social-icons-sm mt-20"></i></a>
                         <a href="https://github.com/sandesh98" target="_blank"><i class="fa fa-github fa-social-icons-sm mt-20"></i></a>
                     </div>
