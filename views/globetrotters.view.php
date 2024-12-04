@@ -290,16 +290,16 @@
                 <div class="col-6 col-offset-1">
                     <div class="col-4">
                         <div class="vcenter link-container">
-                            <a href="/dutchdiner" class="prev-link">
-                                <div class="project-title">Dutch Diner</div>
+                            <a href="/customerjourney" class="prev-link">
+                                <div class="project-title">JEX Customer Journey</div>
                                 <div class="link-title">Vorige project</div>
                             </a>
                         </div>
                     </div>
                     <div class="col-4">
                         <div class="vcenter link-container text-right">
-                            <a href="/multipurpose" class="next-link">
-                                <div class="project-title">Multipurpose</div>
+                            <a href="/wecollect" class="next-link">
+                                <div class="project-title">WECOLLECT</div>
                                 <div class="link-title">Volgende project</div>
                             </a>
                         </div>

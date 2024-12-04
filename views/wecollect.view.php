@@ -227,16 +227,16 @@
                 <div class="col-6 col-offset-1">
                     <div class="col-4">
                         <div class="vcenter link-container">
-                            <a href="/multipurpose" class="prev-link">
-                                <div class="project-title">Multipurpose</div>
+                            <a href="/globetrotters" class="prev-link">
+                                <div class="project-title">Globetrotters</div>
                                 <div class="link-title">Vorige project</div>
                             </a>
                         </div>
                     </div>
                     <div class="col-4">
                         <div class="vcenter link-container text-right">
-                            <a href="/superspeurders" class="next-link">
-                                <div class="project-title">Superspeurders</div>
+                            <a href="/opdrachtgeversportaal" class="next-link">
+                                <div class="project-title">JEX Opdrachtgeversportaal</div>
                                 <div class="link-title">Volgende project</div>
                             </a>
                         </div>
