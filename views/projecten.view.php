@@ -25,7 +25,7 @@
                 <!-- Project -->
                 <a href="/research-repository" class="werk grid-item col-8">
                     <div class="thumb">
-                        <img src="../resources/images/project/research-respository/project-image.jpg">
+                        <img src="../resources/images/project/research-repository/project-image.jpg">
                     </div>
                     <div class="caption">
                         <div class="title">JEX - Opdrachtgeversportaal</div>
