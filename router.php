@@ -13,6 +13,7 @@ $routes = [
     '/globetrotters' => 'controllers/globetrotters.php',
     '/customerjourney' => 'controllers/uren-customerjourney.php',
     '/opdrachtgeversportaal' => 'controllers/opdrachtgeversportaal.php',
+    '/research-repository' => 'controllers/research-repository.php',
     '/rs' => 'controllers/rs.php'
 ];
 

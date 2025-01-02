@@ -21,6 +21,17 @@
         </div>
         <div class="container">
             <div id="project-grid" class="masonry-grid">
+                
+                <!-- Project -->
+                <a href="/research-repository" class="werk grid-item col-8">
+                    <div class="thumb">
+                        <img src="../resources/images/project/research-respository/project-image.jpg">
+                    </div>
+                    <div class="caption">
+                        <div class="title">JEX - Opdrachtgeversportaal</div>
+                        <div class="subtitle">Prototype</div>
+                    </div>
+                </a>
 
                 <!-- Project -->
                 <a href="/opdrachtgeversportaal" class="werk grid-item col-8">
