@@ -24,9 +24,8 @@
                 <div class="col-3">
                     <div class="content-block">
                         <h2>Hi, mijn naam is Sandesh</h2>
-                        <p>Ik ben een UX-designer die graag werkt aan grote, complexe softwaresystemen, waarbij ik rekening houd met de volledige context. Niet alleen de gebruiker staat centraal, maar ook de technische mogelijkheden en beperkingen spelen een belangrijke rol.</p>
+                        <p>Ik ben een UX-designer met een passie voor grote, complexe softwaresystemen, waarbij ik oog heb voor zowel de gebruiker als de technische mogelijkheden en beperkingen. Naast mijn ervaring in UX-design heb ik me in mijn vrije tijd verdiept in webdevelopment en eigen projecten ontwikkeld. Nu wil ik deze kennis professioneel inzetten en verder groeien in dit vakgebied.</p>
                         <p>Experimenteren met AI is iets waar ik veel plezier en inspiratie uit haal. Ik gebruik AI in mijn werk voor diverse toepassingen, zoals UX-writing, het opstellen van interviewvragen, het verkennen van verschillende onderzoeksrichtingen en het maken van flowcharts. Daarnaast deel ik mijn kennis en experimenten graag met mijn team, bijvoorbeeld via presentaties en live demo's. Hiermee hoop ik mijn collega's te inspireren en aan te moedigen om AI ook in hun eigen workflows te gebruiken.</p>
-
                         <h3>Samenwerkingen</h3>
                         <p>Ik ben gestart als UX Researcher, samen met twee collega’s, om vooronderzoeken uit te voeren voor andere teams. Door middel van fysieke en digitale interviews met uitzendkrachten en uitzendbureaus hebben we waardevolle inzichten verzameld over nieuwe thema’s die als startpunt dienen voor verdere ontwikkeling binnen andere teams.</p>
                         <p>In mijn rol als UX Designer heb ik gewerkt in een multidisciplinair team met een Scrum Master, Business Analist, Product Owner, UX-Designers, Developers en een Tester. Ik ondersteun bij het opstellen van Product Backlog Items en Business Rules en werk deze uit in designs.</p>
