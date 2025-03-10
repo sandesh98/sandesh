@@ -15,4 +15,3 @@ function auto_version($file) {
 
     return sprintf("%s?v=%d", $file, $mtime);
 }
-
